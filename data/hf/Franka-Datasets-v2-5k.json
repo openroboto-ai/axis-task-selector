@@ -1,0 +1,4394 @@
+[
+  {
+    "type": "directory",
+    "oid": "ce580c76390675fd7c8ed9cfe212fbee9023e3d1",
+    "size": 0,
+    "path": "Franka-1000-rotate_the_test_tube"
+  },
+  {
+    "type": "directory",
+    "oid": "0c3fbcdb05499e034d3dc51be7242a9a879c636c",
+    "size": 0,
+    "path": "Franka-1001-rotate_the_pipette"
+  },
+  {
+    "type": "directory",
+    "oid": "fa0dc53e26d12c900ee7ff35b9129475572e7def",
+    "size": 0,
+    "path": "Franka-1003-put_the_headphone_on_the_speaker"
+  },
+  {
+    "type": "directory",
+    "oid": "abbfaca9ad149e1a935f2116f5198e6bae5a1420",
+    "size": 0,
+    "path": "Franka-1004-put_the_microphone_on_the_cassette"
+  },
+  {
+    "type": "directory",
+    "oid": "43234f1d5a0e97b5b9e2b419f048116aca0ec4f0",
+    "size": 0,
+    "path": "Franka-1006-put_the_microphone_beside_the_headphone"
+  },
+  {
+    "type": "directory",
+    "oid": "ad218bdc2ff0cf8c303200d997c55180abcabde6",
+    "size": 0,
+    "path": "Franka-1012-put_the_bamboo_cylinder_into_the_basket"
+  },
+  {
+    "type": "directory",
+    "oid": "c4c76700995fb2d8d429e813bca32c2928186c69",
+    "size": 0,
+    "path": "Franka-1013-put_the_computer_mouse_on_the_notebook"
+  },
+  {
+    "type": "directory",
+    "oid": "6a5652d6019ba2470adccaca55bc070549d37967",
+    "size": 0,
+    "path": "Franka-1014-put_the_pen_on_the_notebook"
+  },
+  {
+    "type": "directory",
+    "oid": "595351d4289c9c9beeb319263132943495c06ec7",
+    "size": 0,
+    "path": "Franka-1016-put_the_pen_on_the_keyboard"
+  },
+  {
+    "type": "directory",
+    "oid": "460253b3c0871fabd86e3d2d43744c18f7849aa4",
+    "size": 0,
+    "path": "Franka-1017-rotate_the_computer_mouse"
+  },
+  {
+    "type": "directory",
+    "oid": "3f7e1fd7505d36bd7c0826452064f3b61362c2de",
+    "size": 0,
+    "path": "Franka-1018-rotate_the_pen"
+  },
+  {
+    "type": "directory",
+    "oid": "eab7e9b4bee4801e939b5d325945fffe0d36e630",
+    "size": 0,
+    "path": "Franka-1019-put_the_soap_on_the_tissue_box"
+  },
+  {
+    "type": "directory",
+    "oid": "ea3bf351dfc2c70efd30a023418e3fdf4e79d4a0",
+    "size": 0,
+    "path": "Franka-1022-put_the_soap_beside_the_comb"
+  },
+  {
+    "type": "directory",
+    "oid": "9df51c9c0b0d44092bb06a12628e22d7f12cfd07",
+    "size": 0,
+    "path": "Franka-1023-rotate_the_soap"
+  },
+  {
+    "type": "directory",
+    "oid": "6c90c068f590954d1e9f4cc73a2c81db722b7b6b",
+    "size": 0,
+    "path": "Franka-1024-rotate_the_comb"
+  },
+  {
+    "type": "directory",
+    "oid": "5700708b947a8b2da143bdeb940c3b7bc4442b8c",
+    "size": 0,
+    "path": "Franka-1025-put_the_pen_on_the_notebook"
+  },
+  {
+    "type": "directory",
+    "oid": "f71e70521e87803c32499ca47d2c4e37c0c1a743",
+    "size": 0,
+    "path": "Franka-1026-put_the_dice_on_the_notebook"
+  },
+  {
+    "type": "directory",
+    "oid": "b075e8fb5133db3738be1c28c546a252868dbf2f",
+    "size": 0,
+    "path": "Franka-1027-put_the_cup_on_the_notebook"
+  },
+  {
+    "type": "directory",
+    "oid": "694b425799d5bbcb3e82cb6d323fa1e7c46193fe",
+    "size": 0,
+    "path": "Franka-1028-insert_the_pen_into_the_cup"
+  },
+  {
+    "type": "directory",
+    "oid": "874a76afec585cf20f646d499dc5d1bdf0ac303a",
+    "size": 0,
+    "path": "Franka-1029-put_the_dice_into_the_cup"
+  },
+  {
+    "type": "directory",
+    "oid": "47c81c888c7d1f107d28c5e1028f316edf27a0f6",
+    "size": 0,
+    "path": "Franka-1030-rotate_the_pen"
+  },
+  {
+    "type": "directory",
+    "oid": "019a6521cb56d6ce88109a516c9c505afb6c32f4",
+    "size": 0,
+    "path": "Franka-1033-put_the_glasses_case_on_the_book"
+  },
+  {
+    "type": "directory",
+    "oid": "843381ba43180dff7b4c4d6c7e0898cc8079d542",
+    "size": 0,
+    "path": "Franka-1034-put_the_cup_on_the_book"
+  },
+  {
+    "type": "directory",
+    "oid": "464f58524048e8c15c68649f70bca510050c9336",
+    "size": 0,
+    "path": "Franka-1036-rotate_the_pen"
+  },
+  {
+    "type": "directory",
+    "oid": "c6ddbbfeee3b95b854f1bb67240ae0521651b9b7",
+    "size": 0,
+    "path": "Franka-1037-rotate_the_glasses_case"
+  },
+  {
+    "type": "directory",
+    "oid": "78d99ded46c32874f99c48f80d4aba0af1ae34ea",
+    "size": 0,
+    "path": "Franka-1038-put_the_donut_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "08a81c9d31270d7d163491b77fc94642e2bb7712",
+    "size": 0,
+    "path": "Franka-1039-put_the_muffin_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "af6f3d71b8f4b2a0aadc26bc5fb4e593093d7b29",
+    "size": 0,
+    "path": "Franka-1040-put_the_teacup_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "9eb68a1630790cb7e66707e5ab22e3cfc5a612c4",
+    "size": 0,
+    "path": "Franka-1041-put_the_donut_beside_the_muffin"
+  },
+  {
+    "type": "directory",
+    "oid": "4f4832d132b673ab1e341672cbe9cb485b70f7ad",
+    "size": 0,
+    "path": "Franka-1042-put_the_muffin_beside_the_teacup"
+  },
+  {
+    "type": "directory",
+    "oid": "0cc2c4a4fa224629a40c46f556440c4f07423781",
+    "size": 0,
+    "path": "Franka-1043-rotate_the_teacup"
+  },
+  {
+    "type": "directory",
+    "oid": "70feda35237b84c6f594892c752da75627cf9a36",
+    "size": 0,
+    "path": "Franka-1044-put_the_cube_block_into_the_basket"
+  },
+  {
+    "type": "directory",
+    "oid": "632ac93f90c580ecc6b225c871705360c84bce71",
+    "size": 0,
+    "path": "Franka-1045-put_the_toy_figurine_into_the_basket"
+  },
+  {
+    "type": "directory",
+    "oid": "4d8e84fd7a3749f27636473c4b5081af4f84320a",
+    "size": 0,
+    "path": "Franka-1046-put_the_toy_car_into_the_basket"
+  },
+  {
+    "type": "directory",
+    "oid": "c5a109a53ba5deb81083045dcf25fb0494f6c2a2",
+    "size": 0,
+    "path": "Franka-1047-put_the_cube_block_beside_the_toy_car"
+  },
+  {
+    "type": "directory",
+    "oid": "430280b9d26990d762d432c4517f6a2b1fba1ea2",
+    "size": 0,
+    "path": "Franka-1048-put_the_cube_block_beside_the_toy_figurine"
+  },
+  {
+    "type": "directory",
+    "oid": "b835ab635ba738c682326fa34d1f1d9ba95e6882",
+    "size": 0,
+    "path": "Franka-1049-rotate_the_toy_car"
+  },
+  {
+    "type": "directory",
+    "oid": "7a31ee54761d323f14446ed84880aa7d2a734146",
+    "size": 0,
+    "path": "Franka-1051-put_the_plum_into_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "232b172b29a2e9b3dfea7cdb23b66dc99d56209f",
+    "size": 0,
+    "path": "Franka-1053-put_the_plum_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "902e7e21fe73d05208cc469ac8d529417299dedc",
+    "size": 0,
+    "path": "Franka-1054-put_both_items_into_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "f0282c94580801ae343c7edda700574f84735106",
+    "size": 0,
+    "path": "Franka-1055-put_the_plum_beside_the_dice"
+  },
+  {
+    "type": "directory",
+    "oid": "4f4833890de4e0c2efe5570111e0677dbff861aa",
+    "size": 0,
+    "path": "Franka-1056-put_the_kettle_on_the_notebook"
+  },
+  {
+    "type": "directory",
+    "oid": "f4a430615a525b54124ad967c850a43dfb201342",
+    "size": 0,
+    "path": "Franka-1057-put_the_grinder_on_the_notebook"
+  },
+  {
+    "type": "directory",
+    "oid": "4b1c5a036701ddf4c7370fed7f91ae99417bdac7",
+    "size": 0,
+    "path": "Franka-1058-put_the_cup_on_the_notebook"
+  },
+  {
+    "type": "directory",
+    "oid": "34975e2598e71003f89c14ccb86be9f802e5085d",
+    "size": 0,
+    "path": "Franka-1059-put_the_cup_beside_the_notebook"
+  },
+  {
+    "type": "directory",
+    "oid": "c7eac240579c2f7cb3f3ec8d19a2f2ab0ddab804",
+    "size": 0,
+    "path": "Franka-1060-rotate_the_kettle"
+  },
+  {
+    "type": "directory",
+    "oid": "c5f31cfbc6e2bf100d71b8c7ab317ed54918d93a",
+    "size": 0,
+    "path": "Franka-1061-rotate_the_grinder"
+  },
+  {
+    "type": "directory",
+    "oid": "b282a910044566445fc585eaa1b73c332f38ed01",
+    "size": 0,
+    "path": "Franka-1062-put_the_chew_toy_into_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "cb99eae74740ac6ea9064f7bdcc98ce8fb6e422a",
+    "size": 0,
+    "path": "Franka-1063-put_the_dog_ball_into_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "50b4ae31eb092d8cb496907a1fe9fd9b29df9591",
+    "size": 0,
+    "path": "Franka-1064-put_the_shovel_into_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "e667e13a22f894dfdf767bb93cd7ace99264f72f",
+    "size": 0,
+    "path": "Franka-1065-put_the_dog_ball_beside_the_chew_toy"
+  },
+  {
+    "type": "directory",
+    "oid": "db0e25021b660a21ea0a331a8be30c924fdd4781",
+    "size": 0,
+    "path": "Franka-1066-put_the_dog_ball_in_the_shovel"
+  },
+  {
+    "type": "directory",
+    "oid": "804c033feea35f4c29b70c6c76a38653083b1cec",
+    "size": 0,
+    "path": "Franka-1067-rotate_the_shovel"
+  },
+  {
+    "type": "directory",
+    "oid": "3df3c318211ff73a9177db7c3af2a9614460d244",
+    "size": 0,
+    "path": "Franka-1068-put_the_lipstick_into_the_basket"
+  },
+  {
+    "type": "directory",
+    "oid": "4278a2915fa4e6f75c80ac8966c26922d9c42dc5",
+    "size": 0,
+    "path": "Franka-1070-put_the_comb_into_the_basket"
+  },
+  {
+    "type": "directory",
+    "oid": "9785ea3a0b47c18ef4e544667962e4ee33a8299a",
+    "size": 0,
+    "path": "Franka-1071-put_the_lipstick_on_the_compact_powder"
+  },
+  {
+    "type": "directory",
+    "oid": "d098fa3533e3c0eb97f38acfba20bb830ff11fcb",
+    "size": 0,
+    "path": "Franka-1072-put_the_lipstick_beside_the_comb"
+  },
+  {
+    "type": "directory",
+    "oid": "e41114bf670f60aaf5ed436bfe16e0092fb85ebe",
+    "size": 0,
+    "path": "Franka-1073-rotate_the_comb"
+  },
+  {
+    "type": "directory",
+    "oid": "a5700291fbebc21b52ec63ae263411ab457da295",
+    "size": 0,
+    "path": "Franka-1074-put_the_cup_on_the_coaster"
+  },
+  {
+    "type": "directory",
+    "oid": "68436327cecb24c483d5610f23c40fa9431c873e",
+    "size": 0,
+    "path": "Franka-1075-put_the_liquor_on_the_coaster"
+  },
+  {
+    "type": "directory",
+    "oid": "9dd279cabba3b6c0154e9691e296b2b889f28035",
+    "size": 0,
+    "path": "Franka-1076-put_the_ketchup_on_the_coaster"
+  },
+  {
+    "type": "directory",
+    "oid": "36a3da0c56598fde2d9501b635000658c7c819f9",
+    "size": 0,
+    "path": "Franka-1077-put_the_cup_beside_the_ketchup"
+  },
+  {
+    "type": "directory",
+    "oid": "c78448933ed485a25c8abbcf6b62966c001e0fd4",
+    "size": 0,
+    "path": "Franka-1078-put_the_cup_beside_the_liquor"
+  },
+  {
+    "type": "directory",
+    "oid": "2f8b6a902b8bcb03a5882a4c7f5b9503e9b84128",
+    "size": 0,
+    "path": "Franka-1079-put_the_ketchup_beside_the_liquor"
+  },
+  {
+    "type": "directory",
+    "oid": "e9514d50fb2f514a93b02a047be890da6040707f",
+    "size": 0,
+    "path": "Franka-1080-put_the_eggplant_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "3b175e20ce76317af3eb4c85c7777e8157009013",
+    "size": 0,
+    "path": "Franka-1081-put_the_onion_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "4e485522d26e4385c0a34eea9d827e5391297b5c",
+    "size": 0,
+    "path": "Franka-1082-put_the_bowl_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "24836e48c1604903d51c7f051bc4738eac3f9dab",
+    "size": 0,
+    "path": "Franka-1083-put_the_eggplant_into_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "2c825079e4369e31e5c441203c5532bf55d56f8b",
+    "size": 0,
+    "path": "Franka-1084-put_the_onion_into_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "1815ac1a091980cabb2b66ed7403a618ea2bc722",
+    "size": 0,
+    "path": "Franka-1085-put_the_onion_beside_the_eggplant"
+  },
+  {
+    "type": "directory",
+    "oid": "7ed131685c3ea8fd14a2a3df76582c4afe6b8dbb",
+    "size": 0,
+    "path": "Franka-1086-put_the_medicine_bottle_on_the_pill_box"
+  },
+  {
+    "type": "directory",
+    "oid": "2272fbce11fb1d457e1c3f33ce4571be3be14112",
+    "size": 0,
+    "path": "Franka-1087-put_the_tablet_tube_on_the_pill_box"
+  },
+  {
+    "type": "directory",
+    "oid": "a33feab13ef7ece331b7d2e4930d261bca222d02",
+    "size": 0,
+    "path": "Franka-1088-put_the_medicine_bottle_on_the_medicine_case"
+  },
+  {
+    "type": "directory",
+    "oid": "d65186ee86be6761275d2b5c56260a81367e40d9",
+    "size": 0,
+    "path": "Franka-1089-put_the_tablet_tube_on_the_medicine_case"
+  },
+  {
+    "type": "directory",
+    "oid": "43465fc3a43398c1760f890d0c47eda97af95e9a",
+    "size": 0,
+    "path": "Franka-1090-put_the_medicine_bottle_beside_the_tablet_tube"
+  },
+  {
+    "type": "directory",
+    "oid": "6c62e6940943d082ccfcc0c0f6556e7fdb943b97",
+    "size": 0,
+    "path": "Franka-1091-pick_up_the_medicine_bottle"
+  },
+  {
+    "type": "directory",
+    "oid": "d6505cf87da0aa447cfa59858877c38111e51c04",
+    "size": 0,
+    "path": "Franka-1092-put_the_butter_block_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "ead7533f1e793ccf0ed24143f4e847d83b84c655",
+    "size": 0,
+    "path": "Franka-1093-put_the_croissant_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "e6e77b806800f33197c2d0daf2d418ebf821b847",
+    "size": 0,
+    "path": "Franka-1094-put_the_fork_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "d2e2dc61d20b61bfe2dbe17de2aa0cb03983196a",
+    "size": 0,
+    "path": "Franka-1095-put_the_croissant_beside_the_fork"
+  },
+  {
+    "type": "directory",
+    "oid": "2ecedf6d7dc15e7e0669c0fbf317f8490db6a035",
+    "size": 0,
+    "path": "Franka-1096-rotate_the_fork"
+  },
+  {
+    "type": "directory",
+    "oid": "214b00f90362b9b9b77ade419697c693abac732a",
+    "size": 0,
+    "path": "Franka-1097-rotate_the_croissant"
+  },
+  {
+    "type": "directory",
+    "oid": "253e613cb0315ee1d0f220774909fc7925a312c2",
+    "size": 0,
+    "path": "Franka-1105-pull_object_closer"
+  },
+  {
+    "type": "directory",
+    "oid": "d44c8b03e1e72e1e01f850fb6a51e2aa71f403d4",
+    "size": 0,
+    "path": "Franka-1106-controlled_small_displacement"
+  },
+  {
+    "type": "directory",
+    "oid": "ec16a1ee610f5ad736fdc840b638d973a87673bf",
+    "size": 0,
+    "path": "Franka-1107-pick_from_clutter"
+  },
+  {
+    "type": "directory",
+    "oid": "7d168d3060d200cb8396fd9597e8146f725676da",
+    "size": 0,
+    "path": "Franka-1108-pack_tightly"
+  },
+  {
+    "type": "directory",
+    "oid": "c7fab69361a05cb434c1fdf6932365731160bfd1",
+    "size": 0,
+    "path": "Franka-1109-precision_pinch_grasp"
+  },
+  {
+    "type": "directory",
+    "oid": "fd6b7733f907015d7e62bf4fb2ed0b321c29bc77",
+    "size": 0,
+    "path": "Franka-1111-sort_by_category"
+  },
+  {
+    "type": "directory",
+    "oid": "fd0ab80273e2ca7cd8668621e954675f96cf7c46",
+    "size": 0,
+    "path": "Franka-1112-regrasp_in_air"
+  },
+  {
+    "type": "directory",
+    "oid": "f5ae3c7639c27d81d933adff48c4045d2ce66981",
+    "size": 0,
+    "path": "Franka-1113-sort_by_size"
+  },
+  {
+    "type": "directory",
+    "oid": "c4e0e2f03037068de6e1381c160d122773a57ffb",
+    "size": 0,
+    "path": "Franka-1114-pick_one_of_many_similar_objects"
+  },
+  {
+    "type": "directory",
+    "oid": "581033f67801b85abc504ffe1e8180b20cf49bfc",
+    "size": 0,
+    "path": "Franka-1116-power_grasp"
+  },
+  {
+    "type": "directory",
+    "oid": "b00f78e2bcf512c4a694bc6206a861e7441131db",
+    "size": 0,
+    "path": "Franka-1137-rearrange_your_table___lh"
+  },
+  {
+    "type": "directory",
+    "oid": "37f8087cb7c045c81218098b8af7ff0bf315beae",
+    "size": 0,
+    "path": "Franka-1138-rearrange_your_table_2___lh"
+  },
+  {
+    "type": "directory",
+    "oid": "0e6be9c627dc4c29e30ea18f7ad4bc97b0c18579",
+    "size": 0,
+    "path": "Franka-1139-rearrange_your_table_3___lh"
+  },
+  {
+    "type": "directory",
+    "oid": "f0cf3ff5d281321eabe546e0a3ad743323b7ca7a",
+    "size": 0,
+    "path": "Franka-1140-rearrange_your_table_4___lh"
+  },
+  {
+    "type": "directory",
+    "oid": "0a200561a9dabfcc5b863ce01543a57f2394c398",
+    "size": 0,
+    "path": "Franka-1141-rearrange_your_table_5___lh"
+  },
+  {
+    "type": "directory",
+    "oid": "a58cc699ab2422ed762407f4815ee3e319ce1b45",
+    "size": 0,
+    "path": "Franka-1142-rearrange_your_table_6___lh"
+  },
+  {
+    "type": "directory",
+    "oid": "59bc6d2cc77f2776dc4f112db6432220f5836e16",
+    "size": 0,
+    "path": "Franka-1149-push_object_to_target"
+  },
+  {
+    "type": "directory",
+    "oid": "9f5e325e767155c4c2ec3b6908cb14bd2347f2b5",
+    "size": 0,
+    "path": "Franka-1150-push_around_obstacle"
+  },
+  {
+    "type": "directory",
+    "oid": "8252d4a08fd7212bd2382887eea6a789d2f2ebfe",
+    "size": 0,
+    "path": "Franka-1151-put_lid_back"
+  },
+  {
+    "type": "directory",
+    "oid": "30d320d7915e8730729170970f930ebd8f810bb1",
+    "size": 0,
+    "path": "Franka-1152-fit_lid_onto_container"
+  },
+  {
+    "type": "directory",
+    "oid": "feaa6c43d2c9906f6231ae0c2306be30fe5ecb6b",
+    "size": 0,
+    "path": "Franka-1153-squeegeewipe_push"
+  },
+  {
+    "type": "directory",
+    "oid": "93bddbbddfd6515d0ef0254e1990f6419df53b2a",
+    "size": 0,
+    "path": "Franka-1158-peg_into_hole"
+  },
+  {
+    "type": "directory",
+    "oid": "85db82aa1ecd78fb747ef30e03c5add16c1b3791",
+    "size": 0,
+    "path": "Franka-1164-insert_utensil_into_holder"
+  },
+  {
+    "type": "directory",
+    "oid": "6e7dfc6a89d5d19f16797769bfa51acd8e8364fb",
+    "size": 0,
+    "path": "Franka-1175-put_the_glasses_case_on_the_book"
+  },
+  {
+    "type": "directory",
+    "oid": "fd034d28343aaeb129a5c414fb4afd0e839bd0b5",
+    "size": 0,
+    "path": "Franka-1176-put_the_cup_on_the_book"
+  },
+  {
+    "type": "directory",
+    "oid": "eb4fdc9a8865cc69769ad47fd11ac52307108a22",
+    "size": 0,
+    "path": "Franka-1177-put_the_candle_on_the_book"
+  },
+  {
+    "type": "directory",
+    "oid": "68d59fd903d8e63a77341296a50d213e87e476d6",
+    "size": 0,
+    "path": "Franka-1178-put_the_glasses_case_beside_the_candle"
+  },
+  {
+    "type": "directory",
+    "oid": "8befe076ca72bff6d8eb1305fe615a998604c465",
+    "size": 0,
+    "path": "Franka-1179-rotate_the_cup"
+  },
+  {
+    "type": "directory",
+    "oid": "a95850caf8226903894fc0f9d0c962dd468b16c6",
+    "size": 0,
+    "path": "Franka-1180-rotate_the_glasses_case"
+  },
+  {
+    "type": "directory",
+    "oid": "2b2c34d575c836c54dd8067c9019bbfd222b0e4b",
+    "size": 0,
+    "path": "Franka-1181-put_the_bracelet_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "8a8f04cfe4858beb7b899d8671bac0fbe1582b29",
+    "size": 0,
+    "path": "Franka-1182-put_the_diamond_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "10e8e61c1ad9e011b5690abd5331ac794b3116e9",
+    "size": 0,
+    "path": "Franka-1183-put_the_ring_box_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "9c41315ceeaab1ae40e74c06409402ce95d40ea5",
+    "size": 0,
+    "path": "Franka-1184-put_the_bracelet_on_the_ring_box"
+  },
+  {
+    "type": "directory",
+    "oid": "9c7950a406204e1351c7b3153653b60083316475",
+    "size": 0,
+    "path": "Franka-1185-put_the_diamond_on_the_ring_box"
+  },
+  {
+    "type": "directory",
+    "oid": "973a1a5dff5b4b296b349abf56bf56eca90fad77",
+    "size": 0,
+    "path": "Franka-1186-rotate_the_ring_box"
+  },
+  {
+    "type": "directory",
+    "oid": "d8f65cf1d1a49cb1f4b7227cd25ca67cedddab1a",
+    "size": 0,
+    "path": "Franka-1187-put_the_croissant_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "b809801f6100a6e72fc2117c1a3c1008fc0fdacf",
+    "size": 0,
+    "path": "Franka-1188-put_the_fork_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "a2b5ab20fac34e33819c5585e12c05076072b7f2",
+    "size": 0,
+    "path": "Franka-1189-put_the_cup_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "920fc96723dc79c030bf170b2b241779335517a7",
+    "size": 0,
+    "path": "Franka-1190-put_the_croissant_beside_the_cup"
+  },
+  {
+    "type": "directory",
+    "oid": "7d0dedabc3235be54d8c6dfc6db0e8dfc98893ba",
+    "size": 0,
+    "path": "Franka-1191-put_the_fork_beside_the_cup"
+  },
+  {
+    "type": "directory",
+    "oid": "acd9c25779ae627b5d0445ff37d3b20f858dc074",
+    "size": 0,
+    "path": "Franka-1192-rotate_the_croissant"
+  },
+  {
+    "type": "directory",
+    "oid": "b2ddd2683a7caafe5cbece83aed34ff1c0c5baa6",
+    "size": 0,
+    "path": "Franka-1193-put_the_plum_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "bbfef50f3f331e9cabb244ceed002276c759bd69",
+    "size": 0,
+    "path": "Franka-1194-put_the_banana_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "bec5eb85eaa99af38ac612a926159b50d9aaaa66",
+    "size": 0,
+    "path": "Franka-1195-put_the_plum_in_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "06cd7ba571b149056d06e33a2d8b26e958029bec",
+    "size": 0,
+    "path": "Franka-1196-put_the_banana_in_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "b01beda54378120853dc3fd0195b36adc10af0eb",
+    "size": 0,
+    "path": "Franka-1197-put_the_plum_beside_the_banana"
+  },
+  {
+    "type": "directory",
+    "oid": "4c844ea276ed16dbbe608767c5b31a855ffa49e6",
+    "size": 0,
+    "path": "Franka-1198-rotate_the_banana"
+  },
+  {
+    "type": "directory",
+    "oid": "07f9360d5ee78b7b4743a4e058f71619df3dbb73",
+    "size": 0,
+    "path": "Franka-1222-put_the_hammer_in_the_basket"
+  },
+  {
+    "type": "directory",
+    "oid": "d27ffc3896cf30817d028ce10fc04684c96787e1",
+    "size": 0,
+    "path": "Franka-1224-put_the_cup_in_the_basket"
+  },
+  {
+    "type": "directory",
+    "oid": "21b38a9573ee25e665349542e7c24c28b70fe05e",
+    "size": 0,
+    "path": "Franka-1226-rotate_the_screwdriver"
+  },
+  {
+    "type": "directory",
+    "oid": "d91ec8d310893a5c3cc75990e247f918f98b0852",
+    "size": 0,
+    "path": "Franka-1227-rotate_the_cup"
+  },
+  {
+    "type": "directory",
+    "oid": "aa5c4c7bcea814ae56030b0954e44f4001056e5b",
+    "size": 0,
+    "path": "Franka-1230-put_the_toy_figurine_in_the_basket"
+  },
+  {
+    "type": "directory",
+    "oid": "c6eb8041ba31d830f24803a70d14f5d59cc4ca33",
+    "size": 0,
+    "path": "Franka-1232-put_the_ball_beside_the_toy_figurine"
+  },
+  {
+    "type": "directory",
+    "oid": "fcc53823b1b3aa7cc07824425dfe0e1ceef35569",
+    "size": 0,
+    "path": "Franka-1233-put_the_toy_figurine_beside_the_cube_block"
+  },
+  {
+    "type": "directory",
+    "oid": "ab59afe9c34b0ce21fbc594bde433f3f5a816a1c",
+    "size": 0,
+    "path": "Franka-1235-put_the_strawberry_into_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "287b00613c07a059a9be5bb21476e59f4df40391",
+    "size": 0,
+    "path": "Franka-1237-put_the_spoon_beside_the_garlic_bulb"
+  },
+  {
+    "type": "directory",
+    "oid": "22bb4138627a7de0f8dd45d85da1178d87538c1c",
+    "size": 0,
+    "path": "Franka-1238-put_the_spoon_beside_the_strawberry"
+  },
+  {
+    "type": "directory",
+    "oid": "30f7ea1d43dd90816215624d98661fbb85c4c2db",
+    "size": 0,
+    "path": "Franka-1240-put_the_carrot_on_the_cutting_board"
+  },
+  {
+    "type": "directory",
+    "oid": "af42f08d254c2b765bdb54eea36786f8a45746c2",
+    "size": 0,
+    "path": "Franka-1241-put_the_cucumber_on_the_cutting_board"
+  },
+  {
+    "type": "directory",
+    "oid": "252798480deb07306b6b37627eae9e5c861af7ff",
+    "size": 0,
+    "path": "Franka-1242-put_the_knife_on_the_cutting_board"
+  },
+  {
+    "type": "directory",
+    "oid": "25eb045416377df770690cb6ba1e37032e5ee9ce",
+    "size": 0,
+    "path": "Franka-1243-put_the_carrot_beside_the_cucumber"
+  },
+  {
+    "type": "directory",
+    "oid": "fc07ee93ec1ab5805366ddf8837cb8bf0ecc5dd5",
+    "size": 0,
+    "path": "Franka-1244-put_the_cucumber_beside_the_knife"
+  },
+  {
+    "type": "directory",
+    "oid": "7012cc001ecd4e70ac7bce0c24895fc7c57f7843",
+    "size": 0,
+    "path": "Franka-1245-rotate_the_cucumber"
+  },
+  {
+    "type": "directory",
+    "oid": "4cb5952af0f9d074177842e752570af9c2ce6518",
+    "size": 0,
+    "path": "Franka-1246-put_the_clock_on_the_book"
+  },
+  {
+    "type": "directory",
+    "oid": "1a7e06a3d24f0ee61f6eafd21a918f6157294ca5",
+    "size": 0,
+    "path": "Franka-1249-put_the_candle_beside_the_remote_control"
+  },
+  {
+    "type": "directory",
+    "oid": "445602b70c9bbadf16c9425d00a00983a37ce03e",
+    "size": 0,
+    "path": "Franka-1250-put_the_clock_beside_the_remote_control"
+  },
+  {
+    "type": "directory",
+    "oid": "8025b8c4e844e34752ca0fbeebd036631dd83689",
+    "size": 0,
+    "path": "Franka-1252-remove_loose_lid"
+  },
+  {
+    "type": "directory",
+    "oid": "566e5febf4f70e7e9118274a7299393a50772d8e",
+    "size": 0,
+    "path": "Franka-1255-put_the_flip_flop_on_the_shoe_box"
+  },
+  {
+    "type": "directory",
+    "oid": "fc2df44b3597c6801437af3c9dd006d49a4fe819",
+    "size": 0,
+    "path": "Franka-1277-put_the_eraser_into_the_cup"
+  },
+  {
+    "type": "directory",
+    "oid": "376b753091bb4d3642eee88647759a56685f1285",
+    "size": 0,
+    "path": "Franka-1279-put_the_eraser_on_the_calculator"
+  },
+  {
+    "type": "directory",
+    "oid": "31b861b5a8f35a18623281d3cd03ed0eec99b09e",
+    "size": 0,
+    "path": "Franka-1280-put_the_carrot_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "792f9f56bd1313c7606d42fab832d5da51cddfb7",
+    "size": 0,
+    "path": "Franka-1281-put_the_cucumber_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "3e7d1824103c0406fa02e71ad7f7c05e49eb13fc",
+    "size": 0,
+    "path": "Franka-1282-put_the_potato_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "154aa14676e956cfc78e4db8face41fef8354640",
+    "size": 0,
+    "path": "Franka-1283-put_the_potato_beside_the_cucumber"
+  },
+  {
+    "type": "directory",
+    "oid": "b1309902eabd6ca5f360b94feaa7cde48d1df250",
+    "size": 0,
+    "path": "Franka-1288-put_the_glue_on_the_toolbox"
+  },
+  {
+    "type": "directory",
+    "oid": "feef503702cd3e1a8f0a4b7140beae0d14935806",
+    "size": 0,
+    "path": "Franka-1289-put_the_pilers_on_the_toolbox"
+  },
+  {
+    "type": "directory",
+    "oid": "70902579300e619379a65e085901e722970ca6e4",
+    "size": 0,
+    "path": "Franka-1292-rotate_the_pilers"
+  },
+  {
+    "type": "directory",
+    "oid": "4e7d369ce5ca7dab8c7b15b3464c1534540cde59",
+    "size": 0,
+    "path": "Franka-1293-rotate_the_scissors"
+  },
+  {
+    "type": "directory",
+    "oid": "af5f3bcff787aad97568113f674f0e9ee875e2f7",
+    "size": 0,
+    "path": "Franka-1294-put_the_jam_jar_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "63324f435157da2743d29657a8fff3acb1242be3",
+    "size": 0,
+    "path": "Franka-1295-put_the_knife_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "92d564011533354e4f675631a4f4861f8c7fcd0a",
+    "size": 0,
+    "path": "Franka-1296-put_the_toast_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "5d826b4bd482701648e17357002c58f15b53703b",
+    "size": 0,
+    "path": "Franka-1298-put_the_jam_jar_on_the_toast"
+  },
+  {
+    "type": "directory",
+    "oid": "040416a9c2e4f9f68860f527193bea660c2ec215",
+    "size": 0,
+    "path": "Franka-1299-put_the_knife_on_the_jam_jar"
+  },
+  {
+    "type": "directory",
+    "oid": "8934d9a0012940b1033cfeb743a0d9892b43842d",
+    "size": 0,
+    "path": "Franka-1300-put_the_peach_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "6008abbcae21f9cccd2d7dc689f4504f84b574af",
+    "size": 0,
+    "path": "Franka-1301-put_the_lemon_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "fdffd1ff3b26df9ba7c8aa8d62b0fe4e953539fe",
+    "size": 0,
+    "path": "Franka-1302-put_the_lemon_beside_the_peach"
+  },
+  {
+    "type": "directory",
+    "oid": "836a81d29b5d11cf6c41e3dec783211cb73056eb",
+    "size": 0,
+    "path": "Franka-1304-rotate_the_lemon"
+  },
+  {
+    "type": "directory",
+    "oid": "6edb76bf6af40a2e0ec2a8614db69f97e30ff0dc",
+    "size": 0,
+    "path": "Franka-1305-rotate_the_coffee_cup"
+  },
+  {
+    "type": "directory",
+    "oid": "b026d70848a90c71254006699de11abcd9c58c59",
+    "size": 0,
+    "path": "Franka-1306-put_the_computer_mouse_on_the_laptop"
+  },
+  {
+    "type": "directory",
+    "oid": "9a6d161de7061c520021fe34a80626554f298ac6",
+    "size": 0,
+    "path": "Franka-1307-put_the_cup_on_the_laptop"
+  },
+  {
+    "type": "directory",
+    "oid": "eef784d944f77ed62ec199b109ae721fbf5e345a",
+    "size": 0,
+    "path": "Franka-1308-put_the_pen_on_the_laptop"
+  },
+  {
+    "type": "directory",
+    "oid": "4fd381f826e72656c75dc451423790cc5ceeb7c2",
+    "size": 0,
+    "path": "Franka-1311-rotate_the_pen"
+  },
+  {
+    "type": "directory",
+    "oid": "76de1e7ded56d31362f402759c58db753c011668",
+    "size": 0,
+    "path": "Franka-1313-put_the_churro_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "e4aae72a5fbfc97e788658479cae7da3d7250017",
+    "size": 0,
+    "path": "Franka-1314-put_the_macaron_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "918244971a83b82fd1d8d7fa923247e8675dc023",
+    "size": 0,
+    "path": "Franka-1315-put_the_macaron_beside_the_churro"
+  },
+  {
+    "type": "directory",
+    "oid": "c15502425fb456308681244320b966bf6818eca4",
+    "size": 0,
+    "path": "Franka-1316-rotate_the_churro"
+  },
+  {
+    "type": "directory",
+    "oid": "d0e30a4c2d983511687606b1aa2480e4ce0512de",
+    "size": 0,
+    "path": "Franka-1319-put_the_popsicle_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "94eeecf7418d3882735be3fe67633c9c7c341de3",
+    "size": 0,
+    "path": "Franka-1320-put_the_sausage_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "a529821f4d9a5e97be431f7d61b3616906a8dbd2",
+    "size": 0,
+    "path": "Franka-1321-put_the_popsicle_beside_the_sausage"
+  },
+  {
+    "type": "directory",
+    "oid": "4a10c3afe758b1cbb5bb077297a812ab31b36531",
+    "size": 0,
+    "path": "Franka-1323-rotate_the_sausage"
+  },
+  {
+    "type": "directory",
+    "oid": "7aeb448d41cd9eb7fc51635a7b8f5117956e7241",
+    "size": 0,
+    "path": "Franka-1324-put_the_beaker_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "aad607532b9f5e0b7288c69121eda3831297cbcb",
+    "size": 0,
+    "path": "Franka-1325-put_the_test_tube_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "f1bbfcf9cea5244be87f80eac88f3dc6821f6227",
+    "size": 0,
+    "path": "Franka-1326-put_the_medicine_bottle_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "b0eaee2db2aa232c7ee7021726719bd509b68488",
+    "size": 0,
+    "path": "Franka-1330-put_the_soap_into_the_basket"
+  },
+  {
+    "type": "directory",
+    "oid": "b3598a96051011d0ec269c0685c406a9b659dd67",
+    "size": 0,
+    "path": "Franka-1331-put_the_toothbrush_into_the_basket"
+  },
+  {
+    "type": "directory",
+    "oid": "44f4cd75f6c5b286c736bac3e8e9a6a6778e65c4",
+    "size": 0,
+    "path": "Franka-1332-put_the_toothpaste_into_the_basket"
+  },
+  {
+    "type": "directory",
+    "oid": "72b65de4db2acaa021e4e8c0c7566d79a6e2e1ba",
+    "size": 0,
+    "path": "Franka-1333-put_the_toothbrush_beside_the_toothpaste"
+  },
+  {
+    "type": "directory",
+    "oid": "0b73ae19fe8fada8036e872791e0113fd881bcfa",
+    "size": 0,
+    "path": "Franka-1335-rotate_the_soap"
+  },
+  {
+    "type": "directory",
+    "oid": "f0c4825bd4b86fd81a08321e6dbefb370c967629",
+    "size": 0,
+    "path": "Franka-1338-put_the_perfume_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "b0aa53c25f9ee3979ba74760f53281736af1bd47",
+    "size": 0,
+    "path": "Franka-1341-put_the_lipstick_beside_the_comb"
+  },
+  {
+    "type": "directory",
+    "oid": "d201f51aa0ea92547e6606e310d302dd165a4e48",
+    "size": 0,
+    "path": "Franka-1343-put_the_apple_into_the_saucepan"
+  },
+  {
+    "type": "directory",
+    "oid": "29b1de94d50f60dbdd0b62986c4b2f39a6a53856",
+    "size": 0,
+    "path": "Franka-1345-put_the_salt_shaker_into_the_saucepan"
+  },
+  {
+    "type": "directory",
+    "oid": "0da68a1eaed962181de913833ec52cdcfad1f3fa",
+    "size": 0,
+    "path": "Franka-1346-put_the_apple_beside_the_chicken_leg"
+  },
+  {
+    "type": "directory",
+    "oid": "70c6ddfd45095ea755fab63884a4dc8b6a516be0",
+    "size": 0,
+    "path": "Franka-1348-rotate_the_saucepan"
+  },
+  {
+    "type": "directory",
+    "oid": "61346d027e916c0bb5a8e53694c32cfb95a239cc",
+    "size": 0,
+    "path": "Franka-1352-put_the_croissant_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "65152848c95880c9f2f9171650c4f46ec61f5c81",
+    "size": 0,
+    "path": "Franka-1353-put_the_croissant_on_the_dough_ball"
+  },
+  {
+    "type": "directory",
+    "oid": "feb294e41cdbde78b9b139ea5737ad492aa348d7",
+    "size": 0,
+    "path": "Franka-1355-put_the_croissant_beside_the_rolling_pin"
+  },
+  {
+    "type": "directory",
+    "oid": "0bf9a942c9c18c13f43a19093c2fa7822edac8da",
+    "size": 0,
+    "path": "Franka-1356-put_the_rolling_pin_on_the_dough_ball"
+  },
+  {
+    "type": "directory",
+    "oid": "c65642d6e981c1db5bb6e3fad56449bc2e4429f5",
+    "size": 0,
+    "path": "Franka-1394-put_the_cup_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "03ff3c4959d524ce46c9c7fb31c86e262b621104",
+    "size": 0,
+    "path": "Franka-1395-put_the_kiwi_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "ac3e62d5facf5fe5e66611ca14476bbba1a68996",
+    "size": 0,
+    "path": "Franka-1396-put_the_pear_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "301787dc19378302fcba66c0beb74bda561ce1d8",
+    "size": 0,
+    "path": "Franka-1397-put_the_kiwi_beside_the_pear"
+  },
+  {
+    "type": "directory",
+    "oid": "9773886f05bc13034996e7bd01663d239286ba8f",
+    "size": 0,
+    "path": "Franka-1398-put_the_cup_beside_the_pear"
+  },
+  {
+    "type": "directory",
+    "oid": "8a4cb9bb17bb399828adbe75254efa781e929b0b",
+    "size": 0,
+    "path": "Franka-1399-rotate_the_kiwi"
+  },
+  {
+    "type": "directory",
+    "oid": "cd87e762975b2013fcd5ad44c6d8e146d76bd1d6",
+    "size": 0,
+    "path": "Franka-1400-put_the_cup_on_the_notebook_f"
+  },
+  {
+    "type": "directory",
+    "oid": "1542153635d21d9311d9399c2217157ef7520905",
+    "size": 0,
+    "path": "Franka-1401-rotate_the_kettle_f"
+  },
+  {
+    "type": "directory",
+    "oid": "096f19dd7d207568f1da5c9799ac6ffd88b75f60",
+    "size": 0,
+    "path": "Franka-1402-put_the_dog_ball_into_the_bowl_f"
+  },
+  {
+    "type": "directory",
+    "oid": "a3dae20851e371d8d99d6c89b60b8363c4ea2282",
+    "size": 0,
+    "path": "Franka-1403-put_the_dog_ball_beside_the_chew_toy_f"
+  },
+  {
+    "type": "directory",
+    "oid": "cf52641cb6e445b275f04fcd8edf3087428fa5f3",
+    "size": 0,
+    "path": "Franka-1404-put_the_lipstick_into_the_basket_f"
+  },
+  {
+    "type": "directory",
+    "oid": "11c1490f293f59c394e33e160ab96ebea7faa6d5",
+    "size": 0,
+    "path": "Franka-1405-put_the_compact_powder_case_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "611d907dc5fbc6d1798c10f0ce2e397ba8bda29a",
+    "size": 0,
+    "path": "Franka-1406-put_the_foundation_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "828a815d86ece5ee452b6ecf49174687df9feff0",
+    "size": 0,
+    "path": "Franka-1407-put_the_makeup_brush_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "b1c036b717fef5fe2b254e49f006f3fa95eed126",
+    "size": 0,
+    "path": "Franka-1408-put_the_foundation_on_the_compact_powder_case"
+  },
+  {
+    "type": "directory",
+    "oid": "32b49232e6f62c30b653b34b0f42e9c9145cba15",
+    "size": 0,
+    "path": "Franka-1409-put_the_makeup_brush_on_the_compact_powder_case"
+  },
+  {
+    "type": "directory",
+    "oid": "e63e18876ae1f826430c87989b57d21c48130ce8",
+    "size": 0,
+    "path": "Franka-1410-rotate_the_makeup_brush"
+  },
+  {
+    "type": "directory",
+    "oid": "77eb3535acbddf0840b3f8293abe2cc90e7d8388",
+    "size": 0,
+    "path": "Franka-1411-put_the_cube_block_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "5d8022381f804ba2983cdcf9ef524cb9ea8e2a2b",
+    "size": 0,
+    "path": "Franka-1412-put_the_plush_toy_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "fe21c3652068ef4a560cf16e8248149d0d20c71f",
+    "size": 0,
+    "path": "Franka-1413-put_the_toy_figurine_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "23696d5d6fef5877433d3e03f1e1bb13440ae67e",
+    "size": 0,
+    "path": "Franka-1414-put_the_plush_toy_on_the_cube_block"
+  },
+  {
+    "type": "directory",
+    "oid": "cd284f7487753f23e116a3e89755f57f261cc8f4",
+    "size": 0,
+    "path": "Franka-1415-put_the_toy_figurine_on_the_cube_block"
+  },
+  {
+    "type": "directory",
+    "oid": "bdea8ef1584b4630be76aec365c8e8fae0ca3d8b",
+    "size": 0,
+    "path": "Franka-1416-rotate_the_plush_toy"
+  },
+  {
+    "type": "directory",
+    "oid": "b3d24784dd7bd836ccb428b4ea08a921e365aa93",
+    "size": 0,
+    "path": "Franka-1417-put_the_card_holder_on_the_book"
+  },
+  {
+    "type": "directory",
+    "oid": "7912371cbe1926e57790561e8ab72d67dbba88b7",
+    "size": 0,
+    "path": "Franka-1418-put_the_coffee_cup_on_the_book"
+  },
+  {
+    "type": "directory",
+    "oid": "31feb6569478b3fad6b62b78d09b998e7dc560e5",
+    "size": 0,
+    "path": "Franka-1419-put_the_earbud_case_on_the_book"
+  },
+  {
+    "type": "directory",
+    "oid": "b22baada29fd12a9d35a0b30137f7dbb428bb38f",
+    "size": 0,
+    "path": "Franka-1420-put_the_card_holder_on_the_cup"
+  },
+  {
+    "type": "directory",
+    "oid": "26800f81b14d8726397e38675db320fe3d5a468e",
+    "size": 0,
+    "path": "Franka-1421-put_the_earbud_case_on_the_cup"
+  },
+  {
+    "type": "directory",
+    "oid": "01215fc5085d1a752f665a2f57c09f84dd650cfa",
+    "size": 0,
+    "path": "Franka-1422-rotate_the_coffee_cup"
+  },
+  {
+    "type": "directory",
+    "oid": "777e804f010f82985b967e23aaec288b4793fa38",
+    "size": 0,
+    "path": "Franka-1423-put_the_cola_into_the_basket"
+  },
+  {
+    "type": "directory",
+    "oid": "c653724e2e76a04f7b375f82ef27d7cff4bfe2e3",
+    "size": 0,
+    "path": "Franka-1424-put_the_apple_into_the_basket"
+  },
+  {
+    "type": "directory",
+    "oid": "5873b7b761e23132c5d83c5b2387ce2b141033a8",
+    "size": 0,
+    "path": "Franka-1425-put_the_sausage_roll_into_the_basket"
+  },
+  {
+    "type": "directory",
+    "oid": "e2df205e0afb30e1801c13e71dc855c2dfeebfc1",
+    "size": 0,
+    "path": "Franka-1427-rearrange_three_items_2"
+  },
+  {
+    "type": "directory",
+    "oid": "4e49758843b6fa17c85223254ec5ab391b3a09bc",
+    "size": 0,
+    "path": "Franka-1428-rotate_the_sausage_roll"
+  },
+  {
+    "type": "directory",
+    "oid": "98a74be8f787530e6b19b863f5c426631881ab7f",
+    "size": 0,
+    "path": "Franka-1439-rotate_the_remote_control"
+  },
+  {
+    "type": "directory",
+    "oid": "46bcdf17b69114834e3d762e6fd52e10884d90c3",
+    "size": 0,
+    "path": "Franka-1440-rotate_the_game_controller"
+  },
+  {
+    "type": "directory",
+    "oid": "a8bb20a0d1b54e831e473adfe59bdbad5ac2e1d4",
+    "size": 0,
+    "path": "Franka-1441-put_the_facial_cleanser_into_the_basket"
+  },
+  {
+    "type": "directory",
+    "oid": "c39ca7133deee5cb3c4e77c0036b782b922607f7",
+    "size": 0,
+    "path": "Franka-1442-put_the_deodorant_into_the_basket"
+  },
+  {
+    "type": "directory",
+    "oid": "13c4d1035c6b0733fef2a5f99c93ad60d711c504",
+    "size": 0,
+    "path": "Franka-1443-put_the_toothpaste_into_the_basket"
+  },
+  {
+    "type": "directory",
+    "oid": "f2009dadd798d221a0332160313c2cc094e890fc",
+    "size": 0,
+    "path": "Franka-1444-put_the_facial_cleanser_beside_the_toothpaste"
+  },
+  {
+    "type": "directory",
+    "oid": "d74ac69c16846dcda46557eb11898d408a3a01d8",
+    "size": 0,
+    "path": "Franka-1445-put_the_deodorant_beside_the_toothpaste"
+  },
+  {
+    "type": "directory",
+    "oid": "afd8de97111dc4a261939389d62d27598534c2ed",
+    "size": 0,
+    "path": "Franka-1446-rotate_the_toothpaste"
+  },
+  {
+    "type": "directory",
+    "oid": "fc8f97e6a0443fc06f55ac30eb4242c2eea86345",
+    "size": 0,
+    "path": "Franka-1447-put_the_cup_on_the_book"
+  },
+  {
+    "type": "directory",
+    "oid": "78fa2c0e81096af891b3d381f97a5d9030a23fe0",
+    "size": 0,
+    "path": "Franka-1449-put_the_pencil_case_on_the_book"
+  },
+  {
+    "type": "directory",
+    "oid": "68046093082db93e4af41bd9fccd6ac223145b7a",
+    "size": 0,
+    "path": "Franka-1450-put_the_cup_on_the_pencil_case"
+  },
+  {
+    "type": "directory",
+    "oid": "d7545bd61f4c5fe8f962e82ea55a07e832da2b08",
+    "size": 0,
+    "path": "Franka-1451-put_the_pen_on_the_pencil_case"
+  },
+  {
+    "type": "directory",
+    "oid": "51f9015cc1fdb19b8f552fe33a3cdbf09c5ef041",
+    "size": 0,
+    "path": "Franka-1452-put_the_pen_into_the_cup"
+  },
+  {
+    "type": "directory",
+    "oid": "4ccbe8de7c6097899eec5dfc615acef88597f50c",
+    "size": 0,
+    "path": "Franka-1458-insert_utensil_into_holder"
+  },
+  {
+    "type": "directory",
+    "oid": "c5903e9066004478f0c9f02f5a17e1a06594f784",
+    "size": 0,
+    "path": "Franka-1460-put_the_peanut_butter_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "c976d85948f49ffbefb1b9cec10f8254aee55e40",
+    "size": 0,
+    "path": "Franka-1461-put_the_toast_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "946fb5698f956fceead09cbd4e5454d265443c09",
+    "size": 0,
+    "path": "Franka-1462-put_the_spoon_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "d98d53b4c9857ee0615b2d0d60bba35535aed844",
+    "size": 0,
+    "path": "Franka-1464-put_the_spoon_on_the_peanut_butter"
+  },
+  {
+    "type": "directory",
+    "oid": "2a24d9c5c44c218efbec8e3c0c20f236073fb2fb",
+    "size": 0,
+    "path": "Franka-1465-rotate_the_spoon"
+  },
+  {
+    "type": "directory",
+    "oid": "2dd91332a87a5ba042f8c119e59ad7ed28210522",
+    "size": 0,
+    "path": "Franka-1466-put_the_baby_bottle_on_the_tissue"
+  },
+  {
+    "type": "directory",
+    "oid": "34876c4169f9ac4a28962b2dff6aae2d61a596a8",
+    "size": 0,
+    "path": "Franka-1467-put_the_pacifier_into_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "a094b563dceea4cd0630d4b43c1bd8aca34887f1",
+    "size": 0,
+    "path": "Franka-1468-put_the_baby_bottle_into_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "5c5755288e5a949422054ccc45b6386f4ace81ea",
+    "size": 0,
+    "path": "Franka-1470-rotate_the_pacifier"
+  },
+  {
+    "type": "directory",
+    "oid": "4b4093736fb92100910a89d763462088a67b3a59",
+    "size": 0,
+    "path": "Franka-1471-rotate_the_tissue"
+  },
+  {
+    "type": "directory",
+    "oid": "e35dbea167e03096e3d7808db11b1a1cb75cffe4",
+    "size": 0,
+    "path": "Franka-1473-put_the_hammer_on_the_wooden_board"
+  },
+  {
+    "type": "directory",
+    "oid": "5e6fe0599553d1da07ee6e526e0abeb6b5365ad3",
+    "size": 0,
+    "path": "Franka-1474-put_the_wrench_on_the_wooden_board"
+  },
+  {
+    "type": "directory",
+    "oid": "6bdae716ef6e3fd7a91d45ae7cff4d0717e09fdb",
+    "size": 0,
+    "path": "Franka-1475-put_the_wrench_beside_the_hammer"
+  },
+  {
+    "type": "directory",
+    "oid": "e2d020f8f55d3be5589d537fb8f97510e1ac7d34",
+    "size": 0,
+    "path": "Franka-1476-rotate_the_wrench"
+  },
+  {
+    "type": "directory",
+    "oid": "da040f89b80ef6f16068ca0a82e2e8f2a643ed26",
+    "size": 0,
+    "path": "Franka-1477-rotate_the_hammer"
+  },
+  {
+    "type": "directory",
+    "oid": "ab5432c59e974c97f34114cd883c893d630040ff",
+    "size": 0,
+    "path": "Franka-1478-put_the_green_onion_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "b283789534604b8be2fed255e6ef000575a16885",
+    "size": 0,
+    "path": "Franka-1479-put_the_knife_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "d4243b224337985f708d424c5838dd00e8b0b639",
+    "size": 0,
+    "path": "Franka-1480-put_the_tofu_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "ef9822c28f4d93b0f68c215d9e5969db930d5533",
+    "size": 0,
+    "path": "Franka-1481-put_the_green_onion_on_the_tofu"
+  },
+  {
+    "type": "directory",
+    "oid": "8810c0a4534924776cf10d2f65f5909c6e05e0db",
+    "size": 0,
+    "path": "Franka-1482-put_the_knife_on_the_tofu"
+  },
+  {
+    "type": "directory",
+    "oid": "9637cba2707a4884166be75528a70a64c0d06953",
+    "size": 0,
+    "path": "Franka-1483-rotate_the_green_onion"
+  },
+  {
+    "type": "directory",
+    "oid": "94b7c70e147e762b2fa1a0a1214d2dcf537e2bfd",
+    "size": 0,
+    "path": "Franka-1484-put_the_cinnamon_roll_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "1d2a5b02d078200a33d1f456fe87644dd148c153",
+    "size": 0,
+    "path": "Franka-1485-put_the_cupcake_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "5ea906d0de939ff95aa43bd1cd33eef0e46d1334",
+    "size": 0,
+    "path": "Franka-1489-rotate_the_fork"
+  },
+  {
+    "type": "directory",
+    "oid": "32fd15fbcd070d8cecd7b20679001dc765a24fc6",
+    "size": 0,
+    "path": "Franka-1494-put_the_remote_control_on_the_tissue_box"
+  },
+  {
+    "type": "directory",
+    "oid": "1a728b7c90b9138597ab72ea590eb62a3176453d",
+    "size": 0,
+    "path": "Franka-1495-put_the_ring_box_on_the_tissue_box"
+  },
+  {
+    "type": "directory",
+    "oid": "13718e63039c535375149e73d00b173b7a78278a",
+    "size": 0,
+    "path": "Franka-1496-put_the_watch_on_the_tissue_box"
+  },
+  {
+    "type": "directory",
+    "oid": "9428a484b60a8f4211691a25143879a57300d2a7",
+    "size": 0,
+    "path": "Franka-1497-put_the_ring_box_on_the_remote_control"
+  },
+  {
+    "type": "directory",
+    "oid": "4505c7e9f35c331c3b87c16e02d57018b82051fe",
+    "size": 0,
+    "path": "Franka-1498-put_the_watch_on_the_remote_control"
+  },
+  {
+    "type": "directory",
+    "oid": "439c24942bf9aac39690d3494d7aef63f689321c",
+    "size": 0,
+    "path": "Franka-1499-rotate_the_remote_control"
+  },
+  {
+    "type": "directory",
+    "oid": "1750c95206ef278f42cd783caa966470f2dbd80c",
+    "size": 0,
+    "path": "Franka-1500-put_the_tomato_into_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "b44d58efab412398de19dd77458e613b10d7af59",
+    "size": 0,
+    "path": "Franka-1501-put_the_sausage_into_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "dd8ed49c11c9b39c426677533fb603265c169e64",
+    "size": 0,
+    "path": "Franka-1503-put_the_fork_beside_the_sausage"
+  },
+  {
+    "type": "directory",
+    "oid": "d51bba99a3d05751fb9ff75693392c1f21c6e876",
+    "size": 0,
+    "path": "Franka-1514-put_the_phone_on_the_notebook"
+  },
+  {
+    "type": "directory",
+    "oid": "a631b286f5d9b48c8c32bba5073f6d5c7fb0e0c7",
+    "size": 0,
+    "path": "Franka-1515-put_the_cup_on_the_phone"
+  },
+  {
+    "type": "directory",
+    "oid": "0cf8a64161d391d231c62d5e21ee01fef6132d9b",
+    "size": 0,
+    "path": "Franka-1516-put_the_pencil_on_the_phone"
+  },
+  {
+    "type": "directory",
+    "oid": "f85eb7435c1a038dcf6f9022e8a3fcda1f70de2a",
+    "size": 0,
+    "path": "Franka-1517-rotate_the_pencil"
+  },
+  {
+    "type": "directory",
+    "oid": "360d86c235935710084531b489a0edd605cd8b6f",
+    "size": 0,
+    "path": "Franka-1518-put_the_chicken_nugget_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "4da5007b7e56624ed51bea975c9cdba1331b40e2",
+    "size": 0,
+    "path": "Franka-1519-put_the_chicken_wing_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "35ecc7bf1ac71a02dc12b3228d680b19bbb62e06",
+    "size": 0,
+    "path": "Franka-1521-put_the_chicken_nugget_on_the_pizza"
+  },
+  {
+    "type": "directory",
+    "oid": "ab2dab0f5f83d7f6dd0177f2644d83dc3e81d8ab",
+    "size": 0,
+    "path": "Franka-1524-put_the_apricot_into_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "6e801222d14c72a070b9b5e01c80c121ad1f7aae",
+    "size": 0,
+    "path": "Franka-1528-rearrange_three_fruits_2"
+  },
+  {
+    "type": "directory",
+    "oid": "13eb419a5ee59775ac72b0bed37f46efc604bb27",
+    "size": 0,
+    "path": "Franka-1557-put_the_soap_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "4b176f79687f4b98a5230245c2d8d779ad5f0dc9",
+    "size": 0,
+    "path": "Franka-1559-put_the_toothbrush_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "a1a6b96292b083919a1d7486bd3aab6ba8495215",
+    "size": 0,
+    "path": "Franka-1560-put_the_soap_on_the_sponge"
+  },
+  {
+    "type": "directory",
+    "oid": "31ee6ab8003999510677d652e65f06e7df9a3082",
+    "size": 0,
+    "path": "Franka-1561-put_the_toothbrush_on_the_sponge"
+  },
+  {
+    "type": "directory",
+    "oid": "b74d3eb2a1ed32e2ad62de03b6f12e992cd718a8",
+    "size": 0,
+    "path": "Franka-1562-rotate_the_toothbrush"
+  },
+  {
+    "type": "directory",
+    "oid": "9e2ec1929c3c451a94b02eaad99dabf9bb5236da",
+    "size": 0,
+    "path": "Franka-1584-put_the_coffee_cup_on_the_laptop"
+  },
+  {
+    "type": "directory",
+    "oid": "c4e1b0672ce65ff71d1bf1172c777c5f847f1029",
+    "size": 0,
+    "path": "Franka-1585-put_the_earbud_case_on_the_laptop"
+  },
+  {
+    "type": "directory",
+    "oid": "d8ac2c22d22bab0df87fd05162efb5e5e86ba156",
+    "size": 0,
+    "path": "Franka-1586-put_the_marker_pen_on_the_laptop"
+  },
+  {
+    "type": "directory",
+    "oid": "1c72353c7c3f746b2b5f2c7784229e7dbdbbc9f4",
+    "size": 0,
+    "path": "Franka-1587-rotate_the_coffee_cup"
+  },
+  {
+    "type": "directory",
+    "oid": "a1f9093952fe539d89d3276c5a3136df4df79838",
+    "size": 0,
+    "path": "Franka-1588-rotate_the_earbud_case"
+  },
+  {
+    "type": "directory",
+    "oid": "78f3ba38bfd05060539d880069fd65157629798b",
+    "size": 0,
+    "path": "Franka-1589-rotate_the_marker_pen"
+  },
+  {
+    "type": "directory",
+    "oid": "049b3e00fc1486f6ef5199378089ceea7a4beffb",
+    "size": 0,
+    "path": "Franka-1590-put_the_croissant_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "3421e46e03fa830a89330b6c67a422e0f67f53f9",
+    "size": 0,
+    "path": "Franka-1591-put_the_sausage_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "7747e66e7c9558d9c1f609b7c15cd665c2e24c4c",
+    "size": 0,
+    "path": "Franka-1592-put_the_fried_egg_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "2a06da3e63e967fb8702196bfeb4f316339874bc",
+    "size": 0,
+    "path": "Franka-1593-put_the_sausage_beside_the_croissant"
+  },
+  {
+    "type": "directory",
+    "oid": "f1b2315a96c36255d53bce98852f05e82649b275",
+    "size": 0,
+    "path": "Franka-1594-rotate_the_sausage"
+  },
+  {
+    "type": "directory",
+    "oid": "69666fa3265c35de5c3780191ec6fd8ac90cfac1",
+    "size": 0,
+    "path": "Franka-1595-rotate_the_croissant"
+  },
+  {
+    "type": "directory",
+    "oid": "9b9cc3b1c5da6aaf3113d32f87100c4c6114308d",
+    "size": 0,
+    "path": "Franka-1597-put_the_camera_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "cdf2d82470e73b5f661250013d6fc906a637cbba",
+    "size": 0,
+    "path": "Franka-1598-put_the_keychain_charm_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "1247caa4d0f51630641cb2174d089d971c7fd7f3",
+    "size": 0,
+    "path": "Franka-1601-rotate_the_plush_toy"
+  },
+  {
+    "type": "directory",
+    "oid": "aef2af3a370836c5a28ac4f572bf8e791929590e",
+    "size": 0,
+    "path": "Franka-1602-put_the_apple_into_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "84d12d63e7b750b1e4434422b4ff5d5fcfc95200",
+    "size": 0,
+    "path": "Franka-1603-put_the_lychee_into_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "83ae10bad398a6bfc77e148262852602c86d557e",
+    "size": 0,
+    "path": "Franka-1604-put_the_tomato_into_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "155b3f6d7381656ec637fb209af74983f46c96c1",
+    "size": 0,
+    "path": "Franka-1605-rearrange_three_items"
+  },
+  {
+    "type": "directory",
+    "oid": "6416fa5e9dac48b0e5e677de7775a01f2bc87d6f",
+    "size": 0,
+    "path": "Franka-1607-put_the_lychee_beside_the_apple"
+  },
+  {
+    "type": "directory",
+    "oid": "ca243f6f12ec033b18b502d386d322a624c27bee",
+    "size": 0,
+    "path": "Franka-1613-rotate_the_chicken_leg"
+  },
+  {
+    "type": "directory",
+    "oid": "0214c9e69a6089262aeee9ceafd9a07ae07c2ddf",
+    "size": 0,
+    "path": "Franka-1620-put_the_contact_lens_case_on_the_toilet_paper"
+  },
+  {
+    "type": "directory",
+    "oid": "da2af5c2f39dcb4d83288691c7ea8aae709b370d",
+    "size": 0,
+    "path": "Franka-1621-put_the_toothbrush_on_the_toilet_paper"
+  },
+  {
+    "type": "directory",
+    "oid": "eb011d35b57b763dab5c09d539f50ae4b74e4f51",
+    "size": 0,
+    "path": "Franka-1622-put_the_hand_soap_on_the_toilet_paper"
+  },
+  {
+    "type": "directory",
+    "oid": "92a07457a129179d01914c769e73177fe1d7586f",
+    "size": 0,
+    "path": "Franka-1623-put_the_contact_lens_case_beside_the_toothbrush"
+  },
+  {
+    "type": "directory",
+    "oid": "9793d4b06cff059b25f7ee29d61a4c5c0e5e1e95",
+    "size": 0,
+    "path": "Franka-1624-put_the_hand_soap_beside_the_toothbrush"
+  },
+  {
+    "type": "directory",
+    "oid": "57a830d1c1d2cae63a8744a89b1ca8d76f59520f",
+    "size": 0,
+    "path": "Franka-1625-rotate_the_toothbrush"
+  },
+  {
+    "type": "directory",
+    "oid": "c3bcb3089039a187eacd15708dc715ed1eb27d93",
+    "size": 0,
+    "path": "Franka-1628-put_the_dice_into_the_basket"
+  },
+  {
+    "type": "directory",
+    "oid": "c43f12edbcd2a8b66e5fa6c7194705a42e3f6bf1",
+    "size": 0,
+    "path": "Franka-1629-put_the_toy_car_into_the_basket"
+  },
+  {
+    "type": "directory",
+    "oid": "dacc62984c0b2f8e9ba830c5444b05cf34e6737b",
+    "size": 0,
+    "path": "Franka-1633-rotate_the_toy_car"
+  },
+  {
+    "type": "directory",
+    "oid": "a49c28282fad992b59a634ac608d94c4d69ded1b",
+    "size": 0,
+    "path": "Franka-1634-put_the_lemon_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "3ebccc0c3de119780e2217e33fb5e7f80aac9fe2",
+    "size": 0,
+    "path": "Franka-1636-put_the_lemon_into_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "287aa04ae95380a0df0f966e933c429f39611e4e",
+    "size": 0,
+    "path": "Franka-1637-put_the_candle_into_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "465e4223d6f4f9883bf3581c872057b4a3a335ab",
+    "size": 0,
+    "path": "Franka-1638-put_the_lemon_beside_the_candle"
+  },
+  {
+    "type": "directory",
+    "oid": "de061df0e01e7b183da7a7960a1a7857b5b33cac",
+    "size": 0,
+    "path": "Franka-1639-rotate_the_lemon"
+  },
+  {
+    "type": "directory",
+    "oid": "86bdd791b39cbb4501b295d5789a6a0c58f9ef9e",
+    "size": 0,
+    "path": "Franka-1640-put_the_fired_chicken_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "79c03ce4f616ed88066463e66516406a9eaeac93",
+    "size": 0,
+    "path": "Franka-1641-put_the_hot_dog_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "0ff657eb6022575363ee88625b60601b7dc948a2",
+    "size": 0,
+    "path": "Franka-1642-put_the_sandwich_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "4ae5056d97702095723edadac10669fe0f00f465",
+    "size": 0,
+    "path": "Franka-1643-put_the_fired_chicken_beside_the_sandwich"
+  },
+  {
+    "type": "directory",
+    "oid": "e6802039980b18603e0f8f88784b9ede0e6d2803",
+    "size": 0,
+    "path": "Franka-1644-put_the_hot_dog_beside_the_sandwich"
+  },
+  {
+    "type": "directory",
+    "oid": "dca5ae5918a0120d25c429f9b5df05a45fbc2706",
+    "size": 0,
+    "path": "Franka-1645-rotate_the_hot_dog"
+  },
+  {
+    "type": "directory",
+    "oid": "0799788259068015cc66d0428533b3d088d7b8b5",
+    "size": 0,
+    "path": "Franka-1703-put_the_cherry_beside_the_cucumber"
+  },
+  {
+    "type": "directory",
+    "oid": "fb63ad08698f31ae00fe829a913c48aed59b4fce",
+    "size": 0,
+    "path": "Franka-1704-put_the_strawberry_beside_the_cucumber"
+  },
+  {
+    "type": "directory",
+    "oid": "2caa48e806979e6b0ba70c507ce8b156f1f8ac01",
+    "size": 0,
+    "path": "Franka-1706-put_the_cupcake_on_the_tissue_box"
+  },
+  {
+    "type": "directory",
+    "oid": "c0401a4d91d40ae83e110fe26f340a0137efbcdb",
+    "size": 0,
+    "path": "Franka-1712-put_the_biscuit_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "44d86c982da1c21af2412ef32aef625492903951",
+    "size": 0,
+    "path": "Franka-1713-put_the_pacifier_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "de81092dbc0f5ee85a6845585e179d23b8fe5f94",
+    "size": 0,
+    "path": "Franka-1714-put_the_shoe_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "a243da9d2996df2b66a3a12159b0c7ce5da94dc0",
+    "size": 0,
+    "path": "Franka-1716-put_the_pacifier_beside_the_shoe"
+  },
+  {
+    "type": "directory",
+    "oid": "fecd01a829a3a4fbbeae5e21f7d577d6a1f8119b",
+    "size": 0,
+    "path": "Franka-1718-put_the_kiwi_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "d375e3179cf4c9b2a2645eb331944e22b4a10666",
+    "size": 0,
+    "path": "Franka-1719-put_the_strawberry_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "b633a6b0f18038010158f6c4f6127c139fea55d7",
+    "size": 0,
+    "path": "Franka-1720-put_the_kiwi_into_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "2e9e795df4c65a4b3e8ce32b52e15352cf205314",
+    "size": 0,
+    "path": "Franka-1724-put_the_egg_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "ea5ba1ba95f288868674e0a33cf1aec1a7e3b603",
+    "size": 0,
+    "path": "Franka-1725-put_the_onion_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "1bdc8390ec0a9f60f2990ae6fb5c74f363e026af",
+    "size": 0,
+    "path": "Franka-1726-put_the_spring_onion_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "b6f7f315dceb7da9b8b77719dbd0e72a23df83f9",
+    "size": 0,
+    "path": "Franka-1727-put_the_egg_beside_the_spring_onion"
+  },
+  {
+    "type": "directory",
+    "oid": "ce47009e0b5dc704d9960d38a8e9a1d99f91ab2b",
+    "size": 0,
+    "path": "Franka-1728-put_the_onion_beside_the_spring_onion"
+  },
+  {
+    "type": "directory",
+    "oid": "949e81c7f1369b4860b798500e679adac0d0d0d9",
+    "size": 0,
+    "path": "Franka-1730-put_the_fork_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "a9e4cf2e7653c5e3cef4e86a20f4d3111a664afe",
+    "size": 0,
+    "path": "Franka-1731-put_the_pear_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "1840ef9c9ab2adbed48e4a619a2c3e99636a14ee",
+    "size": 0,
+    "path": "Franka-1732-put_the_biscuit_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "fe97b804540803e5fa8fe05a08c94c9ea70df331",
+    "size": 0,
+    "path": "Franka-1733-put_the_pear_beside_the_fork"
+  },
+  {
+    "type": "directory",
+    "oid": "ec4a903b5d49f6ca213c1933cffff0d7c1dbbd42",
+    "size": 0,
+    "path": "Franka-1734-put_the_biscuit_beside_the_fork"
+  },
+  {
+    "type": "directory",
+    "oid": "1c3b0cd31a53ce5d3056d58da9ff0baf2a912242",
+    "size": 0,
+    "path": "Franka-1736-put_the_game_console_on_the_chessboard"
+  },
+  {
+    "type": "directory",
+    "oid": "f8db174296777568f46263c5f94f6431a8b25bf0",
+    "size": 0,
+    "path": "Franka-1737-put_the_game_cartridge_on_the_chessboard"
+  },
+  {
+    "type": "directory",
+    "oid": "539eb7d78071d2fe461a9262e46c1166a8862f0b",
+    "size": 0,
+    "path": "Franka-1738-put_the_game_controller_on_the_chessboard"
+  },
+  {
+    "type": "directory",
+    "oid": "aeae43cdbeb6fc722241c1ebfe958b237918c191",
+    "size": 0,
+    "path": "Franka-1739-put_the_game_cartridge_on_the_game_console"
+  },
+  {
+    "type": "directory",
+    "oid": "2ac4d4bf86654eaedcbface1323cd87e677f0ca5",
+    "size": 0,
+    "path": "Franka-1742-put_the_chess_piece_on_the_chessboard"
+  },
+  {
+    "type": "directory",
+    "oid": "02a562fa6c4daa4864074d87c3554b7c32c0e13a",
+    "size": 0,
+    "path": "Franka-1743-put_the_poker_on_the_chessboard"
+  },
+  {
+    "type": "directory",
+    "oid": "60f413fece77df873730409d78fb2f14f0307d24",
+    "size": 0,
+    "path": "Franka-1744-put_the_cube_block_on_the_chessboard"
+  },
+  {
+    "type": "directory",
+    "oid": "6c6f652ed591eb6194dfcc7343a3c8676c9acc3f",
+    "size": 0,
+    "path": "Franka-1745-put_the_chess_piece_on_the_poker"
+  },
+  {
+    "type": "directory",
+    "oid": "863e470b715a8304f4eca4b8d1cf24e70b34edac",
+    "size": 0,
+    "path": "Franka-1746-put_the_cube_block_on_the_poker"
+  },
+  {
+    "type": "directory",
+    "oid": "4816cb2420a9c0d7662ba20be187dfa9d7026854",
+    "size": 0,
+    "path": "Franka-1754-put_the_chicken_leg_on_the_cutting_board"
+  },
+  {
+    "type": "directory",
+    "oid": "3bff8d950148e623736c910ca6ad0ceac50743a4",
+    "size": 0,
+    "path": "Franka-1755-put_the_onion_on_the_cutting_board"
+  },
+  {
+    "type": "directory",
+    "oid": "8082c8e0e9f5f0a0f36d4d7bbdecbe0ba5c51e44",
+    "size": 0,
+    "path": "Franka-1756-put_the_tomato_on_the_cutting_board"
+  },
+  {
+    "type": "directory",
+    "oid": "c3ad49aa323bde0ee240dd62c3302bbdbb5e814a",
+    "size": 0,
+    "path": "Franka-1757-put_the_onion_beside_the_chicken_leg"
+  },
+  {
+    "type": "directory",
+    "oid": "560136840712edd5f21f11a6d294742a601a91a8",
+    "size": 0,
+    "path": "Franka-1758-put_the_tomato_beside_the_chicken_leg"
+  },
+  {
+    "type": "directory",
+    "oid": "f0d8ad5242446f22417b44e47504c93d64183fc5",
+    "size": 0,
+    "path": "Franka-1760-put_the_chocolate_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "48e95d947088cce348dd4e955fff154a10842da0",
+    "size": 0,
+    "path": "Franka-1761-put_the_churro_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "552e2a9b710813b25e1134b23f03d160de361638",
+    "size": 0,
+    "path": "Franka-1762-put_the_popsicle_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "5e811a5d1db29f9781e79365465584a441f377bb",
+    "size": 0,
+    "path": "Franka-1763-put_the_chocolate_beside_the_churro"
+  },
+  {
+    "type": "directory",
+    "oid": "54b951feebe1e391095096966a373303efa3da04",
+    "size": 0,
+    "path": "Franka-1764-put_the_popsicle_beside_the_churro"
+  },
+  {
+    "type": "directory",
+    "oid": "74374a63582bacf6c0e684e7d893781b25307520",
+    "size": 0,
+    "path": "Franka-1772-put_the_card_holder_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "330dcac540953d573b2a0f5539780fc6ca48c8ef",
+    "size": 0,
+    "path": "Franka-1773-put_the_camera_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "5eaef3c7a94cc65e351e6f52dca29484608e6f62",
+    "size": 0,
+    "path": "Franka-1774-put_the_sunglasses_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "6db9202a5616dfdc89e4e5347dd8652efa0a87c6",
+    "size": 0,
+    "path": "Franka-1775-put_the_sunglasses_beside_the_card_holder"
+  },
+  {
+    "type": "directory",
+    "oid": "b9843ea5a6ac75ead915cb50d3007794a06df638",
+    "size": 0,
+    "path": "Franka-1778-put_the_eye_drop_on_the_medicine_box"
+  },
+  {
+    "type": "directory",
+    "oid": "7cf955fee4587c77420d8931d17a3bb750b9852c",
+    "size": 0,
+    "path": "Franka-1779-put_the_ointment_tube_on_the_medicine_box"
+  },
+  {
+    "type": "directory",
+    "oid": "4b06610868aaa39d07e3e5cc03ca6d5254eee654",
+    "size": 0,
+    "path": "Franka-1780-put_the_syringe_on_the_medicine_box"
+  },
+  {
+    "type": "directory",
+    "oid": "235f235617cda32f8ef2ac1393e64a0a90108774",
+    "size": 0,
+    "path": "Franka-1781-put_the_ointment_tube_beside_the_eye_drop"
+  },
+  {
+    "type": "directory",
+    "oid": "787ece29553bcce770bb70b305977fc499a3816d",
+    "size": 0,
+    "path": "Franka-1782-put_the_syringe_beside_the_eye_drop"
+  },
+  {
+    "type": "directory",
+    "oid": "ec87e798aed251ad243982828c4fb5d01b887c17",
+    "size": 0,
+    "path": "Franka-1785-put_the_spring_onion_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "1b9bbb6ae7a4ae9f657777bb96353bd8d05322ec",
+    "size": 0,
+    "path": "Franka-1786-put_the_peeler_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "e7d097dbb00e961c50b0ebcdb4bf8eb0eda667cb",
+    "size": 0,
+    "path": "Franka-1787-put_the_potato_beside_the_spring_onion"
+  },
+  {
+    "type": "directory",
+    "oid": "edf29098a097fa0490e0bcf4f87a63e7bd78b712",
+    "size": 0,
+    "path": "Franka-1788-put_the_peeler_beside_the_spring_onion"
+  },
+  {
+    "type": "directory",
+    "oid": "b8e98dd584692840ddb087230721f0f2f28a79fa",
+    "size": 0,
+    "path": "Franka-1790-put_the_fork_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "bdb2d6627c1e25442d934b357787d0601939d33a",
+    "size": 0,
+    "path": "Franka-1791-put_the_spaghetti_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "77c0e6b35a9843c5834e59ade4b94d7d9c9f0d80",
+    "size": 0,
+    "path": "Franka-1792-put_the_tomato_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "a30649af81748e30b5f283db5955a31beeaa5e72",
+    "size": 0,
+    "path": "Franka-1793-put_the_tomato_beside_the_fork"
+  },
+  {
+    "type": "directory",
+    "oid": "75d1bbdfd5a35acae750313c4f8eb71acdef7b09",
+    "size": 0,
+    "path": "Franka-1794-put_the_spaghetti_beside_the_fork"
+  },
+  {
+    "type": "directory",
+    "oid": "df3efa7888f415a97aa0701971a59a1db15a09a9",
+    "size": 0,
+    "path": "Franka-1796-put_the_cheese_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "54d3f98e62b72460c327b157314b7d12eed7ec46",
+    "size": 0,
+    "path": "Franka-1797-put_the_spoon_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "fc61cea7bd948192cb00efc55d48c900d58c4bff",
+    "size": 0,
+    "path": "Franka-1798-put_the_honey_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "eb854c4dc559ad13f74455f205a729cacc3711d5",
+    "size": 0,
+    "path": "Franka-1799-put_the_cheese_beside_the_spoon"
+  },
+  {
+    "type": "directory",
+    "oid": "5ba9b662a881926c099c87ac712ead24533fe055",
+    "size": 0,
+    "path": "Franka-1800-put_the_honey_beside_the_spoon"
+  },
+  {
+    "type": "directory",
+    "oid": "3c6039e8574cff5d9fd6e4f971511a096ad5f663",
+    "size": 0,
+    "path": "Franka-1802-put_the_oyster_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "2e3e1ec093d3f3255c7570877ab5af9b284eab70",
+    "size": 0,
+    "path": "Franka-1803-put_the_shrimp_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "78e58ac5ddd3f2a021ad35f49ea1498ab35518cb",
+    "size": 0,
+    "path": "Franka-1804-put_the_starfish_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "6def4d3fac4c6431e5d08bbb20a18d70d05bf67a",
+    "size": 0,
+    "path": "Franka-1808-put_the_macadamia_nut_into_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "d2104ec07814171c2a38e6f583c518df6d8c0912",
+    "size": 0,
+    "path": "Franka-1809-put_the_pine_cone_into_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "318fb3f57d334aadbde006e02fd674b342509123",
+    "size": 0,
+    "path": "Franka-1810-put_the_walnut_into_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "e67b10ff5d23271bc26581c3c4717206ce00b975",
+    "size": 0,
+    "path": "Franka-1811-put_the_pine_cone_beside_the_macadamia_nut"
+  },
+  {
+    "type": "directory",
+    "oid": "5ba4c6208c3612dabbdcabf8febbae2872543531",
+    "size": 0,
+    "path": "Franka-1812-put_the_walnut_beside_the_macadamia_nut"
+  },
+  {
+    "type": "directory",
+    "oid": "e6a1609adf157dbddf80cb1cf002f0ca84f10c15",
+    "size": 0,
+    "path": "Franka-1813-rotate_the_pine_cone"
+  },
+  {
+    "type": "directory",
+    "oid": "ae2346b67cbd9fdb2d8c111521405e470c62d602",
+    "size": 0,
+    "path": "Franka-1814-put_the_cube_block_into_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "abe27a6162dc07823721c1f003d0384eb5dcd7fc",
+    "size": 0,
+    "path": "Franka-1815-put_the_tennis_ball_into_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "4d76781b283ed9895201fcffb92e6bbacd0bb0ca",
+    "size": 0,
+    "path": "Franka-1816-put_the_toy_car_into_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "e457459cff9d78d612f7e24f0dd3ba51f6a55f50",
+    "size": 0,
+    "path": "Franka-1817-put_the_tennis_ball_on_the_cube_block"
+  },
+  {
+    "type": "directory",
+    "oid": "1edbd24e1881049afc53cbab985b471240fcca71",
+    "size": 0,
+    "path": "Franka-1818-put_the_toy_car_on_the_cube_block"
+  },
+  {
+    "type": "directory",
+    "oid": "deb139339ba7f4944fade3751352cc6523a68fea",
+    "size": 0,
+    "path": "Franka-1832-put_the_eraser_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "9f7b4136fd81586f41b87f697e1bf154a4f31772",
+    "size": 0,
+    "path": "Franka-1833-put_the_paintbrush_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "a458acd23ea02bedbc4012ac26d65d55f81e722b",
+    "size": 0,
+    "path": "Franka-1834-put_the_paint_tube_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "5baa3fc9e8b1b463325ec1b8041df959845b6f16",
+    "size": 0,
+    "path": "Franka-1835-put_the_eraser_beside_the_paintbrush"
+  },
+  {
+    "type": "directory",
+    "oid": "aff61635a83ead300a7decb7aecdd5cfdc1b4540",
+    "size": 0,
+    "path": "Franka-1836-put_the_paint_tube_beside_the_paintbrush"
+  },
+  {
+    "type": "directory",
+    "oid": "8bb5d0e48fc5728ddf7ebfc1dc5e3065b1cd4119",
+    "size": 0,
+    "path": "Franka-1838-put_the_gold_bar_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "46944e9c13d8b1a6229704fa08c8b88486af749d",
+    "size": 0,
+    "path": "Franka-1839-put_the_jade_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "b30aa2ae7f38ee3f4db4a6f31e0bb08352d685af",
+    "size": 0,
+    "path": "Franka-1840-put_the_diamond_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "eddfb7436cb46c71d19bf47a5656d3fee40c3c2c",
+    "size": 0,
+    "path": "Franka-1841-put_the_jade_on_the_gold_bar"
+  },
+  {
+    "type": "directory",
+    "oid": "09385d412061a80a5f8a7ab3918ac84377f9970b",
+    "size": 0,
+    "path": "Franka-1842-put_the_diamond_on_the_gold_bar"
+  },
+  {
+    "type": "directory",
+    "oid": "0dba818fdaa9a42a56d1d7669d13627ab3879d46",
+    "size": 0,
+    "path": "Franka-1844-put_the_fish_fillet_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "7b09d5919286b37ba3eba226e8d2296b4af17bb7",
+    "size": 0,
+    "path": "Franka-1845-put_the_garlic_bread_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "ff89c107f35628f3e47bcf3f1cab7737c906bd93",
+    "size": 0,
+    "path": "Franka-1846-put_the_pie_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "9d9607b8ee829e87d71d5b4b3ab2732670abf2dd",
+    "size": 0,
+    "path": "Franka-1847-put_the_garlic_bread_on_the_fish_fillet"
+  },
+  {
+    "type": "directory",
+    "oid": "3c268f9a97f6baaa623330010410b87a786001a5",
+    "size": 0,
+    "path": "Franka-1848-put_the_pie_on_the_fish_fillet"
+  },
+  {
+    "type": "directory",
+    "oid": "f2205c8a8d6e634f4b912b00570159f9d57405ae",
+    "size": 0,
+    "path": "Franka-1850-put_the_apple_into_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "5c65a3a6ed490f54d59ba1975a89f5a3a5225609",
+    "size": 0,
+    "path": "Franka-1851-put_the_lychee_into_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "e46d9af62711051022c6556b6e84e81af580675b",
+    "size": 0,
+    "path": "Franka-1852-put_the_plum_into_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "14aca839b91072027da15cca354a4d2d830b2aa5",
+    "size": 0,
+    "path": "Franka-1856-put_the_glue_bottle_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "50b7330bc7b232f54fd7b5eed929485d1d9fa236",
+    "size": 0,
+    "path": "Franka-1857-put_the_scissors_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "e8e51e964d2ae299dbb28d70d76a2cf87b77174a",
+    "size": 0,
+    "path": "Franka-1858-put_the_toy_figurine_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "9d0b9774329a5bec18fbc42aeac5ef95043aa551",
+    "size": 0,
+    "path": "Franka-1859-put_the_glue_bottle_beside_the_scissors"
+  },
+  {
+    "type": "directory",
+    "oid": "503db951820c3b00047b366793585342e9dc6dd9",
+    "size": 0,
+    "path": "Franka-1860-put_the_toy_figurine_beside_the_scissors"
+  },
+  {
+    "type": "directory",
+    "oid": "6f377b17437a43d88e7c276c11d4502f36618c4d",
+    "size": 0,
+    "path": "Franka-1862-put_the_uno_on_the_board_game"
+  },
+  {
+    "type": "directory",
+    "oid": "9a3691d90cf197c89b2a3d96f602e7d74eef3d2f",
+    "size": 0,
+    "path": "Franka-1863-put_the_dice_on_the_board_game"
+  },
+  {
+    "type": "directory",
+    "oid": "0b89ae1b8c1ca059cfc8f97e439fe369b76b94cf",
+    "size": 0,
+    "path": "Franka-1864-put_the_cube_block_on_the_board_game"
+  },
+  {
+    "type": "directory",
+    "oid": "716260b097f9354db4184847da68989f3aa25492",
+    "size": 0,
+    "path": "Franka-1865-put_the_dice_on_the_uno"
+  },
+  {
+    "type": "directory",
+    "oid": "a72cc20409aced8df4c67b287b5946b672829155",
+    "size": 0,
+    "path": "Franka-1866-put_the_cube_block_on_the_uno"
+  },
+  {
+    "type": "directory",
+    "oid": "9a5d9cebd2905835ce7076a104d6d402a9168bcd",
+    "size": 0,
+    "path": "Franka-1868-put_the_biscuit_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "86676ee50901854cf25df88caea8333864b3c221",
+    "size": 0,
+    "path": "Franka-1869-put_the_spoon_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "9d979e73692143e640bd0ee57cd38b9ebfed1e96",
+    "size": 0,
+    "path": "Franka-1870-put_the_yogurt_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "ff1c600ef8fd37d0d7c557e83966ebdae4759538",
+    "size": 0,
+    "path": "Franka-1874-put_the_eggplant_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "1ceb34fa523912ab7f6fed308eab860d6aab049e",
+    "size": 0,
+    "path": "Franka-1875-put_the_peach_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "f2e5b425f745cfaa7b31b5d2a42c59a560e5009d",
+    "size": 0,
+    "path": "Franka-1876-put_the_potato_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "da80bc4feb1a710fd174bdd3e1f2fe5b3164c4f5",
+    "size": 0,
+    "path": "Franka-1881-put_the_calculator_on_the_notebook"
+  },
+  {
+    "type": "directory",
+    "oid": "8dd6253a94920155bdf23b60832b33d5cb27c344",
+    "size": 0,
+    "path": "Franka-1882-put_the_eyeglasses_on_the_notebook"
+  },
+  {
+    "type": "directory",
+    "oid": "1aa92d38c102ea13004eb678b72b6ae17be6ee26",
+    "size": 0,
+    "path": "Franka-1883-put_the_pen_on_the_notebook"
+  },
+  {
+    "type": "directory",
+    "oid": "7914165e1dac000a3a56e56d6f11c6b08ec2389f",
+    "size": 0,
+    "path": "Franka-1884-put_the_eyeglasses_on_the_calculator"
+  },
+  {
+    "type": "directory",
+    "oid": "0abb3fc4dc350ec542c5a7b070bc2ca8d7fe3829",
+    "size": 0,
+    "path": "Franka-1885-put_the_pen_on_the_calculator"
+  },
+  {
+    "type": "directory",
+    "oid": "3cb43e7015fc9573a5064678a00b544706e58bf4",
+    "size": 0,
+    "path": "Franka-1887-put_the_banana_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "9002e95b53b46f39ab76197fe1d8ac466dcf563b",
+    "size": 0,
+    "path": "Franka-1888-put_the_kiwi_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "5276e7490223a3e1e3015b0635cc53ebee6e43ae",
+    "size": 0,
+    "path": "Franka-1890-put_the_orange_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "66ac804c76db6217ed6435c77d8c730cdf7bd600",
+    "size": 0,
+    "path": "Franka-1891-put_the_orange_beside_the_banana"
+  },
+  {
+    "type": "directory",
+    "oid": "d15bc3610bbcc3bcad87f3827540378237ed9f89",
+    "size": 0,
+    "path": "Franka-1893-put_the_butter_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "7cfb3327185c36ba81a9309a07c2c86800ac35e3",
+    "size": 0,
+    "path": "Franka-1894-put_the_croissant_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "9ce586e2ca60e76536b7ea73ab88e7e9f4695d7e",
+    "size": 0,
+    "path": "Franka-1895-put_the_yogurt_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "9ff6b3cbd793fc6a3ed4e471c04eb1ff1b80d0f9",
+    "size": 0,
+    "path": "Franka-1896-put_the_croissant_on_the_butter"
+  },
+  {
+    "type": "directory",
+    "oid": "27a75adace20504e9f76d4c7cb2628af1a444a4f",
+    "size": 0,
+    "path": "Franka-1897-put_the_yogurt_on_the_butter"
+  },
+  {
+    "type": "directory",
+    "oid": "bbc1657ed2e4051b254a83af8066da3b95cb81f7",
+    "size": 0,
+    "path": "Franka-1899-put_the_screwdriver_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "b14df1b12a48108f45f18add1b40680f7a22dc6a",
+    "size": 0,
+    "path": "Franka-1900-put_the_scissors_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "c4fd3a3dd32aa87d2fa486e4a7247bedd8edd87c",
+    "size": 0,
+    "path": "Franka-1901-put_the_wrench_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "79eaa0a74c60f93f22015f1b8135b6564e89fdb9",
+    "size": 0,
+    "path": "Franka-1908-put_the_ballet_flat_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "f35a87d74008cb415b7cd38858bcbce866e9e6c9",
+    "size": 0,
+    "path": "Franka-1909-put_the_sandal_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "c3bb431e3e8a6b900f734cd9da5ea1e9df49e1c4",
+    "size": 0,
+    "path": "Franka-1910-put_the_hanger_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "d4939509c87c278f68a6e6335bb6c7eb0659f1bf",
+    "size": 0,
+    "path": "Franka-1914-put_the_cup_on_the_laptop"
+  },
+  {
+    "type": "directory",
+    "oid": "296775996507229589339ca7af06e619f154fa8b",
+    "size": 0,
+    "path": "Franka-1915-put_the_toy_figurine_on_the_laptop"
+  },
+  {
+    "type": "directory",
+    "oid": "2de2ec9da338e201d70df9a1f0161751e609ff57",
+    "size": 0,
+    "path": "Franka-1916-put_the_pen_on_the_laptop"
+  },
+  {
+    "type": "directory",
+    "oid": "228d899b0d8b68ce6a24010c00423dbf54561d9b",
+    "size": 0,
+    "path": "Franka-1917-put_the_cup_beside_the_pen"
+  },
+  {
+    "type": "directory",
+    "oid": "8c40898a17b6d0c7eb2b0610f9d4e22d0a1ce548",
+    "size": 0,
+    "path": "Franka-1918-put_the_toy_figurine_beside_the_pen"
+  },
+  {
+    "type": "directory",
+    "oid": "71adff00e12a4e7c0c1ec758ae2be680c2c30ca1",
+    "size": 0,
+    "path": "Franka-1920-put_the_garden_fork_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "ac97e134f5d1343bd0b18fe5af38a6a2cfe946a2",
+    "size": 0,
+    "path": "Franka-1921-put_the_garden_trowel_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "908d8539ca777e381a7aecc41bc1fd552caff2d2",
+    "size": 0,
+    "path": "Franka-1922-put_the_turtle_figurine_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "0a0e6756d876aa61d736c17d7855bb4f31195e02",
+    "size": 0,
+    "path": "Franka-1923-put_the_garden_trowel_beside_the_turtle_figurine"
+  },
+  {
+    "type": "directory",
+    "oid": "ebe382891585dc584dd0ccf2dc51b46f6af82a23",
+    "size": 0,
+    "path": "Franka-1927-put_the_apple_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "400c2ebe22442970c865820045dea0e6bd20a7df",
+    "size": 0,
+    "path": "Franka-1928-put_the_cube_block_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "b607971d77cdfe622ed31730ac9ba795b882fc03",
+    "size": 0,
+    "path": "Franka-1929-put_the_apple_into_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "405e84e45862ae79c7d8d717ae6829dea3d764f8",
+    "size": 0,
+    "path": "Franka-1930-put_the_cube_block_into_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "95ffdaf1521c4be405161e9ca0c21b6c903bbd01",
+    "size": 0,
+    "path": "Franka-1931-put_the_apple_on_the_cube_block"
+  },
+  {
+    "type": "directory",
+    "oid": "bd0919d5cd02510b0559bdc3986611fef916cbfc",
+    "size": 0,
+    "path": "Franka-1935-put_the_toothpaste_into_the_cup"
+  },
+  {
+    "type": "directory",
+    "oid": "fc9e29dc32f1853881b4bc878fff5cfc58d817c8",
+    "size": 0,
+    "path": "Franka-1945-put_the_astronaut_figurine_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "3dfea95946e193aa66530d3157c4d7c91ddd10f0",
+    "size": 0,
+    "path": "Franka-1946-put_the_cowboy_figurine_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "2693667fac2cb53332868a26e18cc9971aa11e60",
+    "size": 0,
+    "path": "Franka-1947-put_the_dog_figurine_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "fe6cf88bcba489777d5a7cf13de3d646ec9a780a",
+    "size": 0,
+    "path": "Franka-1948-put_the_astronaut_figurine_beside_the_dog_figurine"
+  },
+  {
+    "type": "directory",
+    "oid": "359a7de039891c049bac27a3c927dea682071788",
+    "size": 0,
+    "path": "Franka-1949-put_the_cowboy_figurine_beside_the_dog_figurine"
+  },
+  {
+    "type": "directory",
+    "oid": "6a983a935fa57424ba8638d1337c8178f7c0d9ad",
+    "size": 0,
+    "path": "Franka-1952-put_the_onion_beside_the_spring_onion"
+  },
+  {
+    "type": "directory",
+    "oid": "f4a6840df370892763210c507591c17c4b2e2085",
+    "size": 0,
+    "path": "Franka-1953-put_the_jam_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "06d56586514329aa39b9ee3e001bbf9bd8462221",
+    "size": 0,
+    "path": "Franka-1954-put_the_spoon_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "be5e1f219d1bca314b64f34501362e97e73575d6",
+    "size": 0,
+    "path": "Franka-1961-put_the_remote_control_on_the_magazine"
+  },
+  {
+    "type": "directory",
+    "oid": "3123c9bc47c5ca769a90838dbb4ca836762cb1c6",
+    "size": 0,
+    "path": "Franka-1962-put_the_cat_figurine_beside_the_remote_control"
+  },
+  {
+    "type": "directory",
+    "oid": "b9524f0731551f8c7f805c8dba996480435032d2",
+    "size": 0,
+    "path": "Franka-1963-put_the_cup_beside_the_remote_control"
+  },
+  {
+    "type": "directory",
+    "oid": "9a037602c7881219bbb9a11e99dc796bbe6a61d6",
+    "size": 0,
+    "path": "Franka-1965-put_the_cupcake_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "f8a4438948089d400900b747ab5d0c13f17ef505",
+    "size": 0,
+    "path": "Franka-1966-put_the_macaron_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "bf2532927e5caa430c6fc3e7043f68921badb419",
+    "size": 0,
+    "path": "Franka-1967-put_the_sausage_roll_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "78b3535f0506026cc42697aef0be60c900ca5228",
+    "size": 0,
+    "path": "Franka-1968-put_the_cupcake_beside_the_sausage_roll"
+  },
+  {
+    "type": "directory",
+    "oid": "d5b2b68ce2bb71abe22cffd333d73858361f9700",
+    "size": 0,
+    "path": "Franka-1969-put_the_macaron_beside_the_sausage_roll"
+  },
+  {
+    "type": "directory",
+    "oid": "f0d128f88a40eee1e1ef68c3342c4e1f282aee46",
+    "size": 0,
+    "path": "Franka-1971-put_the_clock_on_the_book"
+  },
+  {
+    "type": "directory",
+    "oid": "e8e93548f7162cb252b103ea67e9c84f2aaed63d",
+    "size": 0,
+    "path": "Franka-1972-put_the_cup_on_the_book"
+  },
+  {
+    "type": "directory",
+    "oid": "e05e9e6ddd4a743e8b5df76e252a858675d6f513",
+    "size": 0,
+    "path": "Franka-1973-put_the_smartphone_on_the_book"
+  },
+  {
+    "type": "directory",
+    "oid": "54bcfdfb4c066f3890a3bb3dc31db446e78e5b96",
+    "size": 0,
+    "path": "Franka-1974-put_the_cup_beside_the_clock"
+  },
+  {
+    "type": "directory",
+    "oid": "e261044cfa019b81a3c4fb7bef711e8e3d5ffc8b",
+    "size": 0,
+    "path": "Franka-1975-put_the_smartphone_beside_the_clock"
+  },
+  {
+    "type": "directory",
+    "oid": "c30443c8a137f210406af98094dc96e153babb65",
+    "size": 0,
+    "path": "Franka-1977-put_the_eyeglasses_case_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "786869be8d722b266a33708f1f18049648a400df",
+    "size": 0,
+    "path": "Franka-1978-put_the_scented_candle_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "322e6f082e37606302ef0a3131651d976977fa25",
+    "size": 0,
+    "path": "Franka-1979-put_the_mug_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "d113413e764f267b58c8d24c601b43dc7f62d683",
+    "size": 0,
+    "path": "Franka-1980-put_the_mug_beside_the_eyeglasses_case"
+  },
+  {
+    "type": "directory",
+    "oid": "eef84eaf90d83a9fe334af58c0b8446aafa7f8a2",
+    "size": 0,
+    "path": "Franka-1983-put_the_dumbbell_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "11a0985e4e05b4f4d1fd6b402e336f09a1fc0b29",
+    "size": 0,
+    "path": "Franka-1984-put_the_kettlebell_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "77ab52b23b7791289d2b92f15981cebd3552f7ee",
+    "size": 0,
+    "path": "Franka-1985-put_the_jump_rope_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "a2e1be985670ce0520de982c55562a24db792c24",
+    "size": 0,
+    "path": "Franka-1993-put_the_bird_figurine_into_the_basket"
+  },
+  {
+    "type": "directory",
+    "oid": "f8eb529ebee232a1f02f3c7af71265962f476e71",
+    "size": 0,
+    "path": "Franka-1994-put_the_superhero_figurine_into_the_basket"
+  },
+  {
+    "type": "directory",
+    "oid": "d72be03dbc3ac1df7b0253d3241da1caddd13a3f",
+    "size": 0,
+    "path": "Franka-1995-put_the_cube_block_into_the_basket"
+  },
+  {
+    "type": "directory",
+    "oid": "04321be2b1a0a570bfc303e2b480f5001d9d8269",
+    "size": 0,
+    "path": "Franka-1996-put_the_bird_figurine_beside_the_cube_block"
+  },
+  {
+    "type": "directory",
+    "oid": "3ad72132d856aefe6cae299aff3c2f967512c0c4",
+    "size": 0,
+    "path": "Franka-1997-put_the_superhero_figurine_beside_the_cube_block"
+  },
+  {
+    "type": "directory",
+    "oid": "4c57c835b9190381c34da4bf712ab6b35a5da611",
+    "size": 0,
+    "path": "Franka-1999-put_the_donut_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "c5b1f3daabd3e7d5974d218936903da65dcfbfa2",
+    "size": 0,
+    "path": "Franka-2000-put_the_muffin_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "fc97dacd863d54a89251e3c5a3eceead075644fa",
+    "size": 0,
+    "path": "Franka-2001-put_the_teacup_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "f60259ca5fc8a1740e9663ffbf53bb8727e9417e",
+    "size": 0,
+    "path": "Franka-2002-put_the_donut_beside_the_teacup"
+  },
+  {
+    "type": "directory",
+    "oid": "2846dc3f9a26e9cf4afa7181b5a9a5a476220141",
+    "size": 0,
+    "path": "Franka-2003-put_the_muffin_beside_the_teacup"
+  },
+  {
+    "type": "directory",
+    "oid": "da348c66e5f371e5a073d59af499097d1e789548",
+    "size": 0,
+    "path": "Franka-2005-put_the_eye_cream_on_the_tissue_box"
+  },
+  {
+    "type": "directory",
+    "oid": "5d0e1935297c855954cafcc6b72f0bdc3463edfa",
+    "size": 0,
+    "path": "Franka-2006-put_the_makeup_brush_on_the_tissue_box"
+  },
+  {
+    "type": "directory",
+    "oid": "e0a4fd0840821171b22aeba7a85e05948194bfab",
+    "size": 0,
+    "path": "Franka-2007-put_the_tweezers_on_the_tissue_box"
+  },
+  {
+    "type": "directory",
+    "oid": "5ee428dfe7966bad7b2b14bfdb09bf66c3de0a4c",
+    "size": 0,
+    "path": "Franka-2008-put_the_makeup_brush_beside_the_tweezers"
+  },
+  {
+    "type": "directory",
+    "oid": "adb67bde8e6bf8ba48250f73b89b52667fe0437f",
+    "size": 0,
+    "path": "Franka-2011-put_the_lychee_into_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "e2581f4ce40771e0d9a1d46054c3f28790fe9c5b",
+    "size": 0,
+    "path": "Franka-2012-put_the_plum_into_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "42113fb96b64e760daf4b29005e3da481c31187f",
+    "size": 0,
+    "path": "Franka-2013-put_the_lychee_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "79eb4c4ee26a72f79b4da8fbf6c3143fcea442b5",
+    "size": 0,
+    "path": "Franka-2014-put_the_plum_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "0405ac5449492fa2aa516a0324642102c2a6e885",
+    "size": 0,
+    "path": "Franka-2015-put_both_fruits_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "9daabbb31a035ace62cd4c35cd9d831a67db90bc",
+    "size": 0,
+    "path": "Franka-2016-put_the_plum_beside_the_lychee"
+  },
+  {
+    "type": "directory",
+    "oid": "5e9f601b2f4f4bea364f250382f964a7dbc18a55",
+    "size": 0,
+    "path": "Franka-2023-put_the_lemon_into_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "f86ad9a0dd7b03c5976b8bb6125716baf001ff5a",
+    "size": 0,
+    "path": "Franka-2024-put_the_grape_into_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "a2528c96b75bd003532d252dd64c865666e3faa1",
+    "size": 0,
+    "path": "Franka-2025-put_the_cube_block_into_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "b874f6fe0942c9173f83c35537769d9de7bf623b",
+    "size": 0,
+    "path": "Franka-2026-put_the_lemon_on_the_cube_block"
+  },
+  {
+    "type": "directory",
+    "oid": "0741ecb0908567cd010c68d2623d302cb6be632d",
+    "size": 0,
+    "path": "Franka-2027-put_the_grape_on_the_cube_block"
+  },
+  {
+    "type": "directory",
+    "oid": "1140617a698147e23778015cafad765282bdf7e7",
+    "size": 0,
+    "path": "Franka-2028-put_the_lemon_beside_the_grape"
+  },
+  {
+    "type": "directory",
+    "oid": "2e6a1eefae292d78410f231c4b7684dd842dab39",
+    "size": 0,
+    "path": "Franka-2034-put_the_banana_into_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "0e11b3ad4d7e9ac2b727a231032f6c196e6134ee",
+    "size": 0,
+    "path": "Franka-2035-put_the_pear_into_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "8dde95aaa5e8f8949db2fa17d8184207e249041b",
+    "size": 0,
+    "path": "Franka-2036-put_the_walnut_into_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "881809dc430205520837f1f3f83dcd12eb5c515d",
+    "size": 0,
+    "path": "Franka-2037-put_the_pear_beside_the_banana"
+  },
+  {
+    "type": "directory",
+    "oid": "fc926eeea57c286832a08c5c03e032671b2fe0b9",
+    "size": 0,
+    "path": "Franka-2038-put_the_walnut_beside_the_banana"
+  },
+  {
+    "type": "directory",
+    "oid": "b36147b2bf66918b2169d9019bfc23621388d224",
+    "size": 0,
+    "path": "Franka-2088-put_the_pine_cone_into_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "32d0036fd69ac2cf13613abc6bb1cfe9f73f0a8a",
+    "size": 0,
+    "path": "Franka-2089-put_the_walnut_into_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "f7dad2bf98ddee8561ac75243ac03e5b164dc4d5",
+    "size": 0,
+    "path": "Franka-2090-put_the_pine_cone_beside_the_macadamia_nut"
+  },
+  {
+    "type": "directory",
+    "oid": "dad35914e5845d5cb1af2fb0832ec9491a54f633",
+    "size": 0,
+    "path": "Franka-2091-put_the_walnut_beside_the_macadamia_nut"
+  },
+  {
+    "type": "directory",
+    "oid": "a1ebfd52e6824ba879348985854be1858665e1fe",
+    "size": 0,
+    "path": "Franka-2092-put_the_cube_block_into_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "b82512bd516b5c858746bae5b4df0238af111cd0",
+    "size": 0,
+    "path": "Franka-2093-put_the_tennis_ball_into_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "917925a2d8590292acaa1cca19ed4c059ab00e60",
+    "size": 0,
+    "path": "Franka-2095-put_the_fish_fillet_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "da6e34e600e169ad2c602bdb909b9c88e3ea8a84",
+    "size": 0,
+    "path": "Franka-2096-put_the_garlic_bread_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "6b0246731740b873b72a52b0695584f00133b92b",
+    "size": 0,
+    "path": "Franka-2097-put_the_pie_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "66acd105c2bd22f73d8645bd329583c0c25759e2",
+    "size": 0,
+    "path": "Franka-2205-put_the_smartphone_on_the_book"
+  },
+  {
+    "type": "directory",
+    "oid": "16b52e761df1b0c5a29b1c1e7c956b09d8fbb291",
+    "size": 0,
+    "path": "Franka-2206-put_the_cup_on_the_book"
+  },
+  {
+    "type": "directory",
+    "oid": "f956f058eb3acd82b9f35c8bd4753bbb77aab1f9",
+    "size": 0,
+    "path": "Franka-2207-put_the_clock_on_the_book"
+  },
+  {
+    "type": "directory",
+    "oid": "7211aba44a3a756a908aaa160565cab7bb0ce16c",
+    "size": 0,
+    "path": "Franka-2209-put_the_macaron_beside_the_sausage_roll"
+  },
+  {
+    "type": "directory",
+    "oid": "2ede1da24f0c3f9464f7a3a6a8adc86546c7f608",
+    "size": 0,
+    "path": "Franka-2210-put_the_cupcake_beside_the_sausage_roll"
+  },
+  {
+    "type": "directory",
+    "oid": "20a1cb7567321a513dfa35212b936eed2ec76241",
+    "size": 0,
+    "path": "Franka-2211-put_the_sausage_roll_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "0b14c09a68e858bb6184661a68d1385ae9500460",
+    "size": 0,
+    "path": "Franka-2212-put_the_macaron_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "d6c95dd4e94f59985a711d9d4432c9caffacb483",
+    "size": 0,
+    "path": "Franka-2213-put_the_cupcake_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "3f264cec14cbe2fc4a3c86ca5373e937c77cbc04",
+    "size": 0,
+    "path": "Franka-2215-put_the_cup_beside_the_remote_control"
+  },
+  {
+    "type": "directory",
+    "oid": "c4753b8cbc342a6756e41a43230270c697349d29",
+    "size": 0,
+    "path": "Franka-2216-put_the_cat_figurine_beside_the_remote_control"
+  },
+  {
+    "type": "directory",
+    "oid": "9091c9bff73dbcea57aec5527a95e05380bed0c6",
+    "size": 0,
+    "path": "Franka-2217-put_the_remote_control_on_the_magazine"
+  },
+  {
+    "type": "directory",
+    "oid": "8af4249e6fb41d95699a8f1eda803caf1a403676",
+    "size": 0,
+    "path": "Franka-2218-put_the_cup_on_the_magazine"
+  },
+  {
+    "type": "directory",
+    "oid": "bfc3b8cfe28c9efc05c73a4ea445f1624a85d71d",
+    "size": 0,
+    "path": "Franka-2219-put_the_cat_figurine_on_the_magazine"
+  },
+  {
+    "type": "directory",
+    "oid": "124e6bdf8c72360a8e71391cab67aa75dc18ce04",
+    "size": 0,
+    "path": "Franka-2221-put_the_toast_beside_the_spoon"
+  },
+  {
+    "type": "directory",
+    "oid": "205fc525ead882276cc592065ad7f23745d258de",
+    "size": 0,
+    "path": "Franka-2222-put_the_jam_beside_the_spoon"
+  },
+  {
+    "type": "directory",
+    "oid": "cf1c159d871d99968ac89c49a13e0bd54a4dbc72",
+    "size": 0,
+    "path": "Franka-2223-put_the_toast_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "e3873f5b3e11d17e9384ed2628e05adb1241f4ea",
+    "size": 0,
+    "path": "Franka-2224-put_the_spoon_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "ef2f51b227c4d8b228ad1fd09346e78392725d0e",
+    "size": 0,
+    "path": "Franka-2225-put_the_jam_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "70524ad0ea64bdb9e68a6b70399a24dc41dc8338",
+    "size": 0,
+    "path": "Franka-2227-put_the_astronaut_figurine_beside_the_dog_figurine"
+  },
+  {
+    "type": "directory",
+    "oid": "24ae334851e499cb2d9ec4dbc6219bb443df5cdf",
+    "size": 0,
+    "path": "Franka-2228-put_the_macadamia_nut_into_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "4429a0f40924b32c86f06f64d426c0f597d00eb6",
+    "size": 0,
+    "path": "Franka-2231-put_the_spaghetti_beside_the_fork"
+  },
+  {
+    "type": "directory",
+    "oid": "18c1482ed45f75b6edfc8cf5295bd2b08327a137",
+    "size": 0,
+    "path": "Franka-2232-put_the_tomato_beside_the_fork"
+  },
+  {
+    "type": "directory",
+    "oid": "b93d160ad53f8ccbe7eb348b25d36dc0116ef828",
+    "size": 0,
+    "path": "Franka-2233-put_the_tomato_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "9a8637f68ca8a29b51968686d0015d0d11ed19c8",
+    "size": 0,
+    "path": "Franka-2234-put_the_spaghetti_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "ef584be73a267600690e48761676fe83c45e623e",
+    "size": 0,
+    "path": "Franka-2235-put_the_fork_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "0ac23afcfa01a799da7b91a8d599d32608536d9d",
+    "size": 0,
+    "path": "Franka-2237-put_the_peeler_beside_the_spring_onion"
+  },
+  {
+    "type": "directory",
+    "oid": "f8eced623deb9b287a9ca6b93f22fefd648459da",
+    "size": 0,
+    "path": "Franka-2238-put_the_potato_beside_the_spring_onion"
+  },
+  {
+    "type": "directory",
+    "oid": "78fe94ccf81c249dde6b41af9f1aaf43498fa21c",
+    "size": 0,
+    "path": "Franka-2239-put_the_peeler_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "ffa5c3e7e11d0daec95dd265f7050372056c1957",
+    "size": 0,
+    "path": "Franka-2240-put_the_sunglasses_beside_the_card_holder"
+  },
+  {
+    "type": "directory",
+    "oid": "d22b3c383e11c4e5a5ba713962a4747a09fdeefb",
+    "size": 0,
+    "path": "Franka-2241-put_the_sunglasses_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "a448bb4270ec192a253edf4ebc5be34c30110d5b",
+    "size": 0,
+    "path": "Franka-2242-put_the_camera_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "2cd2703e87cc8190d06249cc528b2db031fe2053",
+    "size": 0,
+    "path": "Franka-2243-put_the_card_holder_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "96f170a9bcf97a1f48b7d993ad4194321c904203",
+    "size": 0,
+    "path": "Franka-2245-put_the_pen_beside_the_glasses_case"
+  },
+  {
+    "type": "directory",
+    "oid": "90f1f9062876357a89519562f7bbb649c77c40c5",
+    "size": 0,
+    "path": "Franka-2246-put_the_toy_figurine_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "d1ff18aa8f59653286e0c660d65a77a830d16f09",
+    "size": 0,
+    "path": "Franka-2247-put_the_glasses_case_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "ff039842c52fa12bcec0e9edab13a974e23dacf5",
+    "size": 0,
+    "path": "Franka-2248-put_the_cube_block_on_the_poker"
+  },
+  {
+    "type": "directory",
+    "oid": "46797ca7e4b05447446511f52840a1ae039855b8",
+    "size": 0,
+    "path": "Franka-2249-put_the_chess_piece_on_the_poker"
+  },
+  {
+    "type": "directory",
+    "oid": "ea551f41a5df80c8e8ec045927f013192d1625ca",
+    "size": 0,
+    "path": "Franka-2250-put_the_cube_block_on_the_chessboard"
+  },
+  {
+    "type": "directory",
+    "oid": "227b68dd903e9478472d68505afa97f9c68bf340",
+    "size": 0,
+    "path": "Franka-2252-put_the_game_cartridge_on_the_game_console"
+  },
+  {
+    "type": "directory",
+    "oid": "65a4ea4fb5c419b2ec8a7e1f6aaf322073a88e3c",
+    "size": 0,
+    "path": "Franka-2253-put_the_game_controller_on_the_chessboard"
+  },
+  {
+    "type": "directory",
+    "oid": "b7ad8cf2175da183fd625f2634cbdc9e46729c97",
+    "size": 0,
+    "path": "Franka-2254-put_the_game_cartridge_on_the_chessboard"
+  },
+  {
+    "type": "directory",
+    "oid": "2a1b9ecf202bdd3cd22bb84bfd94ea9235adc6e5",
+    "size": 0,
+    "path": "Franka-2255-put_the_game_console_on_the_chessboard"
+  },
+  {
+    "type": "directory",
+    "oid": "1514f3886583bbd5a55b33852dc60613c00dbce3",
+    "size": 0,
+    "path": "Franka-2257-put_the_spring_onion_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "0738f3dfa001556c2e4cc100eb15fbcc1c0a2602",
+    "size": 0,
+    "path": "Franka-2258-put_the_onion_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "44a8b6def8a40087b0d3dba2e8bcc3ced7f46f73",
+    "size": 0,
+    "path": "Franka-2260-put_the_salt_shaker_beside_the_chicken_breast"
+  },
+  {
+    "type": "directory",
+    "oid": "25d319d738a3827af71437c2c893be7fafef9e51",
+    "size": 0,
+    "path": "Franka-2261-put_the_lemon_beside_the_chicken_breast"
+  },
+  {
+    "type": "directory",
+    "oid": "8a44fe9c2c6cf3e87f9eac60054169a2f45caa6f",
+    "size": 0,
+    "path": "Franka-2262-put_the_salt_shaker_into_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "12f3db564133457d5cc68e15ac27a8ba6d7b49b0",
+    "size": 0,
+    "path": "Franka-2263-put_the_lemon_into_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "9be19ae65d9e5220ef2c69797a815f52b4f63763",
+    "size": 0,
+    "path": "Franka-2264-put_the_chicken_breast_into_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "bf144c482882d2eed5b285130258ceb019d25143",
+    "size": 0,
+    "path": "Franka-2265-rotate_the_comb"
+  },
+  {
+    "type": "directory",
+    "oid": "e55baf82220a82c3855e80cfbfcde70487756fe8",
+    "size": 0,
+    "path": "Franka-2266-put_the_lipstick_beside_the_comb"
+  },
+  {
+    "type": "directory",
+    "oid": "70ef91e3aa69efbc484a5cb22b12482f7b83d446",
+    "size": 0,
+    "path": "Franka-2267-put_the_cream_jar_beside_the_comb"
+  },
+  {
+    "type": "directory",
+    "oid": "cb827efdb5a0e93f6fefe7f685b0844d839b4872",
+    "size": 0,
+    "path": "Franka-2268-put_the_lipstick_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "d51c842dbac6f1f28e899c249a387c7f907b3593",
+    "size": 0,
+    "path": "Franka-2269-put_the_cream_jar_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "e1048536f9c2352234144490d40a71f12d6059c5",
+    "size": 0,
+    "path": "Franka-2270-put_the_comb_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "8ddd6ed938675639beb9674a59a28d0af4a7e59b",
+    "size": 0,
+    "path": "Franka-2271-rotate_the_hot_dog"
+  },
+  {
+    "type": "directory",
+    "oid": "ba0e7c2909fead3bb067bb8551cdc62aa07154e0",
+    "size": 0,
+    "path": "Franka-2272-put_the_hot_dog_beside_the_sandwich"
+  },
+  {
+    "type": "directory",
+    "oid": "0110dd03c05de91cff5ab50945fcb671d58b9318",
+    "size": 0,
+    "path": "Franka-2273-rotate_the_toy_car"
+  },
+  {
+    "type": "directory",
+    "oid": "7ada78fbf03be8491d39bceb4f1852b0fa41bd82",
+    "size": 0,
+    "path": "Franka-2287-put_the_plush_toy_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "1aaf264a502933d9a67cf0ab788e6c0d2b473595",
+    "size": 0,
+    "path": "Franka-2288-rotate_the_croissant"
+  },
+  {
+    "type": "directory",
+    "oid": "8e25f34fd34776a2ac1badeec7b9070a99eefcb7",
+    "size": 0,
+    "path": "Franka-2289-rotate_the_sausage"
+  },
+  {
+    "type": "directory",
+    "oid": "1639c614b94cfb175e482157f67620df4ace6721",
+    "size": 0,
+    "path": "Franka-2290-put_the_sausage_beside_the_croissant"
+  },
+  {
+    "type": "directory",
+    "oid": "f6ee06c5e1c1a8a73d0659cfd207f456cea8e219",
+    "size": 0,
+    "path": "Franka-2291-put_the_fried_egg_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "f4931b79e3fe405a170e5675f4d0c1fa60ce221b",
+    "size": 0,
+    "path": "Franka-2292-put_the_sausage_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "9f1515a854ccd679ec240ce6f2bcb1c5dc236a7f",
+    "size": 0,
+    "path": "Franka-2293-put_the_croissant_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "27f9b51024c061caa61e616fab7a7fc27ffd7bf7",
+    "size": 0,
+    "path": "Franka-2294-rotate_the_marker_pen"
+  },
+  {
+    "type": "directory",
+    "oid": "3a8a91400e2a30d50eba2d1e9c6c43639d854dab",
+    "size": 0,
+    "path": "Franka-2295-rotate_the_earbud_case"
+  },
+  {
+    "type": "directory",
+    "oid": "420028d72476f81464d17edbb903fd4e5dae7cb5",
+    "size": 0,
+    "path": "Franka-2296-rotate_the_coffee_cup"
+  },
+  {
+    "type": "directory",
+    "oid": "ac275477f6bcb6b2927d43da95af358be04e2090",
+    "size": 0,
+    "path": "Franka-2297-put_the_marker_pen_on_the_laptop"
+  },
+  {
+    "type": "directory",
+    "oid": "fce3841eac377139c9ce6b9009e31de08b5873bf",
+    "size": 0,
+    "path": "Franka-2298-put_the_earbud_case_on_the_laptop"
+  },
+  {
+    "type": "directory",
+    "oid": "8b552b8e8fe822daeacc4cabc3002d0f448d63c1",
+    "size": 0,
+    "path": "Franka-2299-put_the_coffee_cup_on_the_laptop"
+  },
+  {
+    "type": "directory",
+    "oid": "d887d50b99a0ea5b72631a3558603fa5669f8a13",
+    "size": 0,
+    "path": "Franka-2301-put_the_toothbrush_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "24f069fcf236893566583f5c40a29f47283774e0",
+    "size": 0,
+    "path": "Franka-2302-put_the_sponge_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "4e29ba1166dcbb8db11755972b0324c17a7f48f9",
+    "size": 0,
+    "path": "Franka-2303-put_the_soap_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "70a51dc45775673bb935ed58a95fb76d8ae6bba2",
+    "size": 0,
+    "path": "Franka-2304-rotate_the_kiwi"
+  },
+  {
+    "type": "directory",
+    "oid": "0cc0722f6c1cf1be2c47de992f33f96a2156c681",
+    "size": 0,
+    "path": "Franka-2306-put_the_tomato_into_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "060b3437e9d90bf5e3e1cd8389d2e175f99d505e",
+    "size": 0,
+    "path": "Franka-800-put_the_scissors_on_the_gift_box"
+  },
+  {
+    "type": "directory",
+    "oid": "d28ca0f68735039f5c17f1eca122fd61e2c098be",
+    "size": 0,
+    "path": "Franka-801-put_the_tape_on_the_ribbon_roll"
+  },
+  {
+    "type": "directory",
+    "oid": "c6753b5dd900abffc3b8d6f126664f0a73e3aada",
+    "size": 0,
+    "path": "Franka-802-put_the_tape_beside_the_scissors"
+  },
+  {
+    "type": "directory",
+    "oid": "ba6b81b22856c62e63e12cacd6733f1a74e3a3c6",
+    "size": 0,
+    "path": "Franka-803-put_the_tape_beside_the_gift_box"
+  },
+  {
+    "type": "directory",
+    "oid": "909fca5576ba0b3b1602e38441fbc4965f43f409",
+    "size": 0,
+    "path": "Franka-804-put_the_scissors_beside_the_ribbon_roll"
+  },
+  {
+    "type": "directory",
+    "oid": "046eb6fdd57d3eff24bd3d1d6673b68cc76470f6",
+    "size": 0,
+    "path": "Franka-810-separate_the_sandwich_from_the_napkin_box"
+  },
+  {
+    "type": "directory",
+    "oid": "ae9ff55cefb6c6ce593afe7e4a84a384e1755dc4",
+    "size": 0,
+    "path": "Franka-814-place_into_container"
+  },
+  {
+    "type": "directory",
+    "oid": "7273b836c67923d88b594fcdbb2cb39c068b8d0c",
+    "size": 0,
+    "path": "Franka-815-place_with_orientation"
+  },
+  {
+    "type": "directory",
+    "oid": "0b394c1a9123e48463eb77a2b5420aba5d4e52e0",
+    "size": 0,
+    "path": "Franka-818-put_the_shot_glass_on_the_coaster"
+  },
+  {
+    "type": "directory",
+    "oid": "49152acf6db22b2caf16c00e03100916b7d49b07",
+    "size": 0,
+    "path": "Franka-828-put_the_toy_figurine_into_the_basket"
+  },
+  {
+    "type": "directory",
+    "oid": "965450e1d15388840f24ac9b0f19bf594391a6ec",
+    "size": 0,
+    "path": "Franka-830-place_the_toy_figurine_on_the_left_side_of_the_toy_car"
+  },
+  {
+    "type": "directory",
+    "oid": "1e78b5557ea033a31b21ec7442a84080c0bcc8dd",
+    "size": 0,
+    "path": "Franka-831-place_the_toy_figurine_on_the_right_side_of_the_toy_car"
+  },
+  {
+    "type": "directory",
+    "oid": "743d804d223fc48f4d8c612c128a907725328093",
+    "size": 0,
+    "path": "Franka-832-rotate_the_toy_car"
+  },
+  {
+    "type": "directory",
+    "oid": "030f634539bc2c5e8d83636c8dda3df6f7df81eb",
+    "size": 0,
+    "path": "Franka-837-rearrange_your_bathroom_4"
+  },
+  {
+    "type": "directory",
+    "oid": "6bab0c6051b34154d769540194eb1e1f6d43edf4",
+    "size": 0,
+    "path": "Franka-844-rotate_the_carrot"
+  },
+  {
+    "type": "directory",
+    "oid": "5f382212702ff3a4b107aacf594bfba49d4d3fc3",
+    "size": 0,
+    "path": "Franka-848-put_the_sausage_in_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "c750a050129dbd5c82b1af07a62492b42c482216",
+    "size": 0,
+    "path": "Franka-849-put_the_sausage_on_the_cereal_box"
+  },
+  {
+    "type": "directory",
+    "oid": "613a1679d2a69dbef4de9c6e37fa40dce5185d99",
+    "size": 0,
+    "path": "Franka-850-put_the_sausage_on_the_milk_carton"
+  },
+  {
+    "type": "directory",
+    "oid": "109084cffb24f472fb1d55b50db2c2ba8b5f63e6",
+    "size": 0,
+    "path": "Franka-851-put_the_sausage_beside_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "81bbf6dcf907a069be25ecf1437b93e8216f8136",
+    "size": 0,
+    "path": "Franka-852-rotate_the_sausage"
+  },
+  {
+    "type": "directory",
+    "oid": "ec07cec4e297924ad3068f1964f86b54d3efd3c9",
+    "size": 0,
+    "path": "Franka-856-put_the_toy_ball_beside_the_chew_toy"
+  },
+  {
+    "type": "directory",
+    "oid": "760c0e8e68e06839a8dddc8396a2b58180e86f46",
+    "size": 0,
+    "path": "Franka-857-put_the_toy_ball_beside_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "f951c9fc5e1a8d1746093b253549a05457e51b54",
+    "size": 0,
+    "path": "Franka-858-separate_the_chew_toy_from_the_toy_ball"
+  },
+  {
+    "type": "directory",
+    "oid": "6eeb8b2efce353f2d7e2fef55da46e6eac56e525",
+    "size": 0,
+    "path": "Franka-859-put_the_chew_toy_on_the_right_side_of_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "d4162d17ed1fe284c3d6c11e2b697c0389e81a3d",
+    "size": 0,
+    "path": "Franka-862-put_the_mouse_on_the_keyboard"
+  },
+  {
+    "type": "directory",
+    "oid": "b90cc0485c0757273f90b8f8ed96705939add597",
+    "size": 0,
+    "path": "Franka-863-put_the_cable_on_the_keyboard"
+  },
+  {
+    "type": "directory",
+    "oid": "9e3708bf17b05a18742f0aa0f980fffcf342a3fc",
+    "size": 0,
+    "path": "Franka-864-put_the_mouse_on_the_phone"
+  },
+  {
+    "type": "directory",
+    "oid": "08bbc4bb7f55c1fcbeb6243ee425d0f38046ade6",
+    "size": 0,
+    "path": "Franka-865-put_the_cable_on_the_phone"
+  },
+  {
+    "type": "directory",
+    "oid": "ebe3595870a4ce9f16fd8105b161f19f4ab81c75",
+    "size": 0,
+    "path": "Franka-867-put_the_computer_mouse_on_the_right_of_the_phone"
+  },
+  {
+    "type": "directory",
+    "oid": "655ecb39bf30497d95f0553d783feeb045e7ec79",
+    "size": 0,
+    "path": "Franka-880-put_the_eyeglasses_on_the_notebook"
+  },
+  {
+    "type": "directory",
+    "oid": "317bcfbf40c75e91706e276600a79cccf40598a5",
+    "size": 0,
+    "path": "Franka-881-put_the_cup_on_the_notebook"
+  },
+  {
+    "type": "directory",
+    "oid": "d91e27064990b1587b2860573645c715dac7b1c2",
+    "size": 0,
+    "path": "Franka-885-put_the_eyeglasses_case_on_the_right_of_the_cup"
+  },
+  {
+    "type": "directory",
+    "oid": "5901f5d379b6efdaa5f7e027ac5f0055b4534d0c",
+    "size": 0,
+    "path": "Franka-887-put_the_cup_on_the_soap_dish"
+  },
+  {
+    "type": "directory",
+    "oid": "ebfc3579472e9e2c04182b3234c851592d64d208",
+    "size": 0,
+    "path": "Franka-892-stack_the_cup_on_the_cube_block_f"
+  },
+  {
+    "type": "directory",
+    "oid": "80b85a7249ca25a8015e9a3d462b33daed9e8259",
+    "size": 0,
+    "path": "Franka-894-put_the_watch_on_the_box"
+  },
+  {
+    "type": "directory",
+    "oid": "0c15fe1a9ddc28166a2c2e7ffcf59c5cde2d006c",
+    "size": 0,
+    "path": "Franka-895-put_the_bracelet_on_the_box"
+  },
+  {
+    "type": "directory",
+    "oid": "fa68ebdbb38d1a61f74010749d0a3ec2440502ca",
+    "size": 0,
+    "path": "Franka-896-put_the_cup_on_the_box"
+  },
+  {
+    "type": "directory",
+    "oid": "fd2782da0a9edb7d9a2ca3594473f2d7e6342437",
+    "size": 0,
+    "path": "Franka-897-put_the_cup_on_the_right_side_of_the_box"
+  },
+  {
+    "type": "directory",
+    "oid": "93cb4e2762c4678e291627665afe2f6c088db5eb",
+    "size": 0,
+    "path": "Franka-898-put_the_cup_on_the_left_side_of_the_box"
+  },
+  {
+    "type": "directory",
+    "oid": "e486bb3b89eef9a87acc626a1ac0f290b76825a4",
+    "size": 0,
+    "path": "Franka-899-put_the_cup_in_front_of_the_box"
+  },
+  {
+    "type": "directory",
+    "oid": "44f148104a799f4882ba46f1e2d46fd24757a2db",
+    "size": 0,
+    "path": "Franka-900-put_the_croissant_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "dc36756dcb4285e42c1da5745bde47640fe103b4",
+    "size": 0,
+    "path": "Franka-901-put_the_tomato_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "ffd2681e973a6855d41cea7ff072f9164dd9e39c",
+    "size": 0,
+    "path": "Franka-902-put_the_croissant_in_the_pan"
+  },
+  {
+    "type": "directory",
+    "oid": "f8b52b155a4f2b6af06344073042ab382d8ec08d",
+    "size": 0,
+    "path": "Franka-903-put_the_tomato_in_the_pan"
+  },
+  {
+    "type": "directory",
+    "oid": "752e63f02936bed65c62e0c7f6a560efa02fcfdf",
+    "size": 0,
+    "path": "Franka-904-rotate_the_pan"
+  },
+  {
+    "type": "directory",
+    "oid": "30aa8bda7fee4b290a36ba8b457efd280b6fbf71",
+    "size": 0,
+    "path": "Franka-918-put_the_butter_block_into_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "1d0e7982c98576d78728ab13f0033c060cad052e",
+    "size": 0,
+    "path": "Franka-919-put_the_rolling_pin_into_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "fffa92450e6c26441e71bf72020491c3973eb883",
+    "size": 0,
+    "path": "Franka-920-put_the_butter_block_on_the_bread"
+  },
+  {
+    "type": "directory",
+    "oid": "6e56d63c47b8e911c723557c37aa2cf385668d03",
+    "size": 0,
+    "path": "Franka-921-rotate_the_rolling_pin"
+  },
+  {
+    "type": "directory",
+    "oid": "62128282c84c6710ad37d94e4891822adc506305",
+    "size": 0,
+    "path": "Franka-923-put_the_rolling_pin_on_the_right_side_of_the_bread"
+  },
+  {
+    "type": "directory",
+    "oid": "6e252a54f48365a0f6ef2d8c5ab798ae799d3264",
+    "size": 0,
+    "path": "Franka-925-put_the_tea_pot_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "600bcf83602d78f14eeb235d57b281069d2bed27",
+    "size": 0,
+    "path": "Franka-926-put_the_tea_cup_on_the_tray"
+  },
+  {
+    "type": "directory",
+    "oid": "acc524728b0fc1386f16827a35f4dc436b0dfc69",
+    "size": 0,
+    "path": "Franka-927-put_the_tea_cup_on_the_biscuit_box"
+  },
+  {
+    "type": "directory",
+    "oid": "95c50f6a948c85b61a6b2585d024513dd8e0ac1f",
+    "size": 0,
+    "path": "Franka-928-put_the_cup_on_the_right_side_of_the_biscuit_box"
+  },
+  {
+    "type": "directory",
+    "oid": "184adaa6a28c88d3ad620cab333dfaf72d858eb1",
+    "size": 0,
+    "path": "Franka-929-put_the_tea_cup_on_the_left_side_of_the_tea_pot"
+  },
+  {
+    "type": "directory",
+    "oid": "6f8777101bd019f6bbdcfa7d7526b3284787e10e",
+    "size": 0,
+    "path": "Franka-930-rotate_the_tea_pot"
+  },
+  {
+    "type": "directory",
+    "oid": "c3bb4ab13a02cbea23e407edbdc2d1e42c6aca70",
+    "size": 0,
+    "path": "Franka-937-put_the_croissant_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "acbd354afb15a4308d0d5f07f6cb4f44869ee834",
+    "size": 0,
+    "path": "Franka-938-put_the_jam_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "7e1da065013e69c6fdc0786fbab6ebdf902a5a12",
+    "size": 0,
+    "path": "Franka-939-put_the_cup_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "e4c1d7115a88d530dd1e295663ab10d51ecf52f1",
+    "size": 0,
+    "path": "Franka-940-put_both_the_croissant_and_the_cup_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "45ee9cbb38f048c8478957d0c3cb1e2462f38bc0",
+    "size": 0,
+    "path": "Franka-941-put_both_the_croissant_and_the_jam_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "dbc587358bb2ed71d0778434646ae7dad76e0ed1",
+    "size": 0,
+    "path": "Franka-942-put_both_the_jam_and_the_cup_on_the_plate"
+  },
+  {
+    "type": "directory",
+    "oid": "ecfb2fc49ad71270448dd0371089da5b3934e44f",
+    "size": 0,
+    "path": "Franka-943-put_the_potato_in_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "a53e1e0ad9ab803909a0a24910b1c1e617984c59",
+    "size": 0,
+    "path": "Franka-944-put_the_green_pepper_in_the_bowl"
+  },
+  {
+    "type": "directory",
+    "oid": "39d09dbdc56085463d7e84bc36db814f56069ed5",
+    "size": 0,
+    "path": "Franka-946-put_the_potato_on_the_cutting_board"
+  },
+  {
+    "type": "directory",
+    "oid": "b31f07614b9bc020a671c4b7398d28d69bc6bfff",
+    "size": 0,
+    "path": "Franka-947-put_the_green_pepper_on_the_cutting_board"
+  },
+  {
+    "type": "directory",
+    "oid": "2990e2e94ce8d6a09cae0b0ef34615d48efde447",
+    "size": 0,
+    "path": "Franka-948-put_both_the_potato_and_the_pepper_on_the_cutting_board"
+  },
+  {
+    "type": "directory",
+    "oid": "5197856273d220dc5291684f70fff7ec52647e05",
+    "size": 0,
+    "path": "Franka-949-put_the_sweet_potato_on_the_tissue_box"
+  },
+  {
+    "type": "directory",
+    "oid": "787867532770905414b1e8f496ba5306712b5273",
+    "size": 0,
+    "path": "Franka-950-put_the_muffin_on_the_tissue_box"
+  },
+  {
+    "type": "directory",
+    "oid": "efb06b8b2a94b6114cde3b3ee4787ff0b76ddb24",
+    "size": 0,
+    "path": "Franka-951-put_the_cup_on_the_tissue_box"
+  },
+  {
+    "type": "directory",
+    "oid": "4ba262a5480091e43cc6d68c45758b51856d2a36",
+    "size": 0,
+    "path": "Franka-952-put_both_the_muffin_and_the_cup_on_the_tissue_box"
+  },
+  {
+    "type": "directory",
+    "oid": "0a1906da421942b7f0c825a06482c1a579a21e06",
+    "size": 0,
+    "path": "Franka-954-put_the_cup_on_the_right_side_of_the_sweet_potato"
+  },
+  {
+    "type": "directory",
+    "oid": "d92321106a527967b875ab262a397f2b128fe0f4",
+    "size": 0,
+    "path": "Franka-960-put_the_toy_car_in_the_basket"
+  },
+  {
+    "type": "directory",
+    "oid": "ca0b7282afe7c00c0c1d29e8cec59a2f2a01bf2c",
+    "size": 0,
+    "path": "Franka-961-put_the_toy_figurine_in_the_basket"
+  },
+  {
+    "type": "directory",
+    "oid": "8550f2fffd4f3ed0f83b4fde9096584c5a992cb2",
+    "size": 0,
+    "path": "Franka-962-put_the_toy_car_on_the_cube_block"
+  },
+  {
+    "type": "directory",
+    "oid": "a21e6668c9bd44993993dd141eba3fed4291f707",
+    "size": 0,
+    "path": "Franka-963-put_the_toy_figurine_on_the_cube_block"
+  },
+  {
+    "type": "directory",
+    "oid": "5ae258f4a62835741f832213ec8f87b95ab900f5",
+    "size": 0,
+    "path": "Franka-964-put_the_toy_car_on_the_right_side_of_the_toy_figurine"
+  },
+  {
+    "type": "directory",
+    "oid": "c5b02849f0050e93efdd14d817f181252fd69ca0",
+    "size": 0,
+    "path": "Franka-965-put_the_toy_car_on_the_left_side_of_the_cube_block"
+  },
+  {
+    "type": "directory",
+    "oid": "74395819c30c835a3c086c01f84423fff008bef8",
+    "size": 0,
+    "path": "Franka-967-put_the_camera_on_the_tissue_box"
+  },
+  {
+    "type": "directory",
+    "oid": "f9ffed01c00cbe00a91307fe515ff2056110003a",
+    "size": 0,
+    "path": "Franka-968-put_the_wallet_on_the_tissue_box"
+  },
+  {
+    "type": "directory",
+    "oid": "8cdacd14b8ef5ddf099dafc80881c922c1547607",
+    "size": 0,
+    "path": "Franka-969-put_the_camera_on_the_right_side_of_the_eyeglasses_case"
+  },
+  {
+    "type": "directory",
+    "oid": "911bcc01f5f9ea311c8a6da8bc7c11dc21589198",
+    "size": 0,
+    "path": "Franka-970-rotate_the_eyeglasses_case"
+  },
+  {
+    "type": "directory",
+    "oid": "e1c0dee59c1e14a0a6ecac66f5fa66c9733242bb",
+    "size": 0,
+    "path": "Franka-972-put_the_tomato_into_the_pan"
+  },
+  {
+    "type": "directory",
+    "oid": "e1b7cb8517f1cf68ef2b66dd2f36e6eca4476c41",
+    "size": 0,
+    "path": "Franka-973-put_the_chicken_leg_into_the_pan"
+  },
+  {
+    "type": "directory",
+    "oid": "7a0d37f6c7f563c9139c965a76f8ff75d941d00b",
+    "size": 0,
+    "path": "Franka-974-put_the_salt_container_into_the_pan"
+  },
+  {
+    "type": "directory",
+    "oid": "6a0c2db833ec2a668674b593f3369cff83871f18",
+    "size": 0,
+    "path": "Franka-975-put_the_tomato_on_the_left_side_of_the_chicken_leg"
+  },
+  {
+    "type": "directory",
+    "oid": "a9e615554f24b59d2ce3e99e65ce3f33b2f80442",
+    "size": 0,
+    "path": "Franka-976-rotate_the_frying_pan"
+  },
+  {
+    "type": "directory",
+    "oid": "48dfde88cb9787d107c4a5da1e6637dfde7f4d2f",
+    "size": 0,
+    "path": "Franka-978-put_the_ballet_flat_into_the_basket"
+  },
+  {
+    "type": "directory",
+    "oid": "716f0f01784a25e2c9fb50bb4429030ae2a89f84",
+    "size": 0,
+    "path": "Franka-979-put_the_sneaker_into_the_basket"
+  },
+  {
+    "type": "directory",
+    "oid": "dd7453522bf459262f2f647a5759995ba63ae2b9",
+    "size": 0,
+    "path": "Franka-980-rotate_the_ballet_flat"
+  },
+  {
+    "type": "directory",
+    "oid": "2b94144441e88c1a0410f500d6be5f892f210831",
+    "size": 0,
+    "path": "Franka-981-rotate_the_sneaker"
+  },
+  {
+    "type": "directory",
+    "oid": "ae1d30511c9ebf60cb21b9aacef70e31fe6b6e4d",
+    "size": 0,
+    "path": "Franka-982-put_the_sneaker_on_the_left_side_of_the_handbag"
+  },
+  {
+    "type": "directory",
+    "oid": "a8c56c66bfae0d719b75e14d3487fe0381771547",
+    "size": 0,
+    "path": "Franka-983-put_the_ballet_flat_on_the_left_side_of_the_handbag"
+  },
+  {
+    "type": "directory",
+    "oid": "bf575a37447a6c9d87273137b2fd1862ad2f444b",
+    "size": 0,
+    "path": "Franka-984-put_the_screwdriver_on_the_toolbox"
+  },
+  {
+    "type": "directory",
+    "oid": "4ce03a4146869140fd5203b053ecf2597e000a16",
+    "size": 0,
+    "path": "Franka-985-put_the_hammer_on_the_toolbox"
+  },
+  {
+    "type": "directory",
+    "oid": "c8f35a6cb8b3f56844361cf015934bd4656075ba",
+    "size": 0,
+    "path": "Franka-987-insert_the_screwdriver_into_the_cup"
+  },
+  {
+    "type": "directory",
+    "oid": "769940e9fe87550229a1a657c504c116a5122d9a",
+    "size": 0,
+    "path": "Franka-988-rotate_the_screwdriver"
+  },
+  {
+    "type": "directory",
+    "oid": "0fbde0602d54147927fe104b8f5dcd02037ac8df",
+    "size": 0,
+    "path": "Franka-989-rotate_the_hammer"
+  },
+  {
+    "type": "directory",
+    "oid": "6a3325ca51bd91a07e2a4d6ae542a28ab9c58485",
+    "size": 0,
+    "path": "Franka-990-put_the_trowel_into_the_pot"
+  },
+  {
+    "type": "directory",
+    "oid": "f15709bd53fc11f44034df2eace47d72c68c27a3",
+    "size": 0,
+    "path": "Franka-992-put_the_trowel_beside_the_rose"
+  },
+  {
+    "type": "directory",
+    "oid": "1246294d4cb8721606134598315290d1e8d4e2fe",
+    "size": 0,
+    "path": "Franka-993-put_the_trowel_beside_the_pot"
+  },
+  {
+    "type": "directory",
+    "oid": "b6eed79d03aea69e7b9a4cf69ffc67cdcf2d003a",
+    "size": 0,
+    "path": "Franka-994-rotate_the_rose"
+  },
+  {
+    "type": "directory",
+    "oid": "f7b1d409feb651abe239891ea4bbccc672c8cb03",
+    "size": 0,
+    "path": "Franka-996-put_the_test_tube_into_the_beaker"
+  },
+  {
+    "type": "directory",
+    "oid": "1d489d7c46783eac97284501ddfcc40eb2821696",
+    "size": 0,
+    "path": "Franka-997-put_the_pipette_into_the_beaker"
+  },
+  {
+    "type": "directory",
+    "oid": "000702763742cc16cea54d91087e6df2bc78d1c4",
+    "size": 0,
+    "path": "Franka-998-put_the_test_tube_beside_the_pipette"
+  },
+  {
+    "type": "directory",
+    "oid": "e8cedf9035ecdf98ec4f629ad2ae512d1bd1bce3",
+    "size": 0,
+    "path": "Franka-999-put_the_pipette_beside_the_beaker"
+  },
+  {
+    "type": "file",
+    "oid": "bed0738c7eeb449bca98b5d2f33c89a1ee56349a",
+    "size": 2504,
+    "path": ".gitattributes"
+  }
+]

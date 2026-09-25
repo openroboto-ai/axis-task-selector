@@ -1,0 +1,13 @@
+[project]
+name = "axis-task-selector"
+version = "0.2.0"
+description = "Deterministic balanced AXIS task selection with distinct groups per batch"
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.uv]
+package = false
+
+[tool.ruff]
+line-length = 120
+target-version = "py310"

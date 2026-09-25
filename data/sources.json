@@ -1,0 +1,44 @@
+[
+  {
+    "repo_id": "axisrobotics/Franka-Dataset",
+    "revision": "1d350a3ada19c6201ba2d38a6819583aa04dbcbe",
+    "format": "v1-zarr",
+    "listing": "data/hf/v1-root.json"
+  },
+  {
+    "repo_id": "axisrobotics/Franka-Dataset",
+    "revision": "1d350a3ada19c6201ba2d38a6819583aa04dbcbe",
+    "format": "v1-zarr",
+    "listing": "data/hf/v1-archives.json"
+  },
+  {
+    "repo_id": "axisrobotics/AXIS-Datasets-v2-MultiEmbodiment",
+    "revision": "40224745a917e0114f1e8f01b4c84aac9d6014d0",
+    "format": "v2-manifest",
+    "listing": "data/hf/AXIS-Datasets-v2-MultiEmbodiment.json"
+  },
+  {
+    "repo_id": "axisrobotics/Franka-Datasets-v2-30k-LIBERO",
+    "revision": "deeda53508cce335d7b13d781844397e7cb7664d",
+    "format": "v2-manifest",
+    "listing": "data/hf/Franka-Datasets-v2-30k-LIBERO.json"
+  },
+  {
+    "repo_id": "axisrobotics/Franka-Datasets-v2-5k",
+    "revision": "60d2507ad52dde2b25bf1e1ec51128d4b4461878",
+    "format": "v2-manifest",
+    "listing": "data/hf/Franka-Datasets-v2-5k.json"
+  },
+  {
+    "repo_id": "axisrobotics/Franka-Datasets-v2",
+    "revision": "eb6a393d4473b5fb6b05b2650d6387867bab0a80",
+    "format": "v2-manifest",
+    "listing": "data/hf/Franka-Datasets-v2.json"
+  },
+  {
+    "repo_id": "axisrobotics/Franka-dataset-v2-2",
+    "revision": "0a252f73e6a548de91a2b49a1e535be82a33fa4e",
+    "format": "v2-manifest",
+    "listing": "data/hf/Franka-dataset-v2-2.json"
+  }
+]

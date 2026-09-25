@@ -1,0 +1,185 @@
+{
+  "checked_at": "2026-09-23T05:17:43+00:00",
+  "tasks": [
+    {
+      "task_id": 22,
+      "name": "Grab Can",
+      "url": "https://hub.axisrobotics.ai/explorer-1/task?id=22",
+      "status": "verified"
+    },
+    {
+      "task_id": 31,
+      "name": "Open Cabinet Bottom Drawer",
+      "url": "https://hub.axisrobotics.ai/explorer-1/task?id=31",
+      "status": "verified"
+    },
+    {
+      "task_id": 33,
+      "name": "Place Black Bowl on Top of Cabinet",
+      "url": "https://hub.axisrobotics.ai/explorer-1/task?id=33",
+      "status": "verified"
+    },
+    {
+      "task_id": 34,
+      "name": "Open Drawer and Place Black Bowl Inside",
+      "url": "https://hub.axisrobotics.ai/explorer-1/task?id=34",
+      "status": "verified"
+    },
+    {
+      "task_id": 35,
+      "name": "Close Cabinet Top Drawer",
+      "url": "https://hub.axisrobotics.ai/explorer-1/task?id=35",
+      "status": "verified"
+    },
+    {
+      "task_id": 37,
+      "name": "Place Black Bowl in Cabinet Top Drawer",
+      "url": "https://hub.axisrobotics.ai/explorer-1/task?id=37",
+      "status": "verified"
+    },
+    {
+      "task_id": 40,
+      "name": "Place Black Bowl on Plate",
+      "url": "https://hub.axisrobotics.ai/explorer-1/task?id=40",
+      "status": "verified"
+    },
+    {
+      "task_id": 41,
+      "name": "Place Black Bowl on Top of Cabinet",
+      "url": "https://hub.axisrobotics.ai/explorer-1/task?id=41",
+      "status": "verified"
+    },
+    {
+      "task_id": 42,
+      "name": "Place Frying Pan on Stove",
+      "url": "https://hub.axisrobotics.ai/explorer-1/task?id=42",
+      "status": "verified"
+    },
+    {
+      "task_id": 43,
+      "name": "Place Moka Pot on Stove",
+      "url": "https://hub.axisrobotics.ai/explorer-1/task?id=43",
+      "status": "verified"
+    },
+    {
+      "task_id": 44,
+      "name": "Turn On Stove",
+      "url": "https://hub.axisrobotics.ai/explorer-1/task?id=44",
+      "status": "verified"
+    },
+    {
+      "task_id": 46,
+      "name": "Close Cabinet Bottom Drawer",
+      "url": "https://hub.axisrobotics.ai/explorer-1/task?id=46",
+      "status": "verified"
+    },
+    {
+      "task_id": 48,
+      "name": "Place Black Bowl in Cabinet Bottom Drawer",
+      "url": "https://hub.axisrobotics.ai/explorer-1/task?id=48",
+      "status": "verified"
+    },
+    {
+      "task_id": 49,
+      "name": "Place Wine Bottle in Cabinet Bottom Drawer",
+      "url": "https://hub.axisrobotics.ai/explorer-1/task?id=49",
+      "status": "verified"
+    },
+    {
+      "task_id": 50,
+      "name": "Place Wine Bottle on Wine Rack",
+      "url": "https://hub.axisrobotics.ai/explorer-1/task?id=50",
+      "status": "verified"
+    },
+    {
+      "task_id": 51,
+      "name": "Close Cabinet Top Drawer",
+      "url": "https://hub.axisrobotics.ai/explorer-1/task?id=51",
+      "status": "verified"
+    },
+    {
+      "task_id": 52,
+      "name": "Place Black Bowl in Cabinet Top Drawer",
+      "url": "https://hub.axisrobotics.ai/explorer-1/task?id=52",
+      "status": "verified"
+    },
+    {
+      "task_id": 53,
+      "name": "Place Black Bowl on Plate",
+      "url": "https://hub.axisrobotics.ai/explorer-1/task?id=53",
+      "status": "verified"
+    },
+    {
+      "task_id": 54,
+      "name": "Place Black Bowl on Top of Cabinet",
+      "url": "https://hub.axisrobotics.ai/explorer-1/task?id=54",
+      "status": "verified"
+    },
+    {
+      "task_id": 55,
+      "name": "Place Ketchup in Cabinet Top Drawer",
+      "url": "https://hub.axisrobotics.ai/explorer-1/task?id=55",
+      "status": "verified"
+    },
+    {
+      "task_id": 56,
+      "name": "Place Right Moka Pot on Stove",
+      "url": "https://hub.axisrobotics.ai/explorer-1/task?id=56",
+      "status": "verified"
+    },
+    {
+      "task_id": 57,
+      "name": "Turn Off Stove",
+      "url": "https://hub.axisrobotics.ai/explorer-1/task?id=57",
+      "status": "verified"
+    },
+    {
+      "task_id": 501,
+      "name": "Put the Brush in the Basket",
+      "url": "https://hub.axisrobotics.ai/explorer-1/task?id=501",
+      "status": "verified"
+    },
+    {
+      "task_id": 502,
+      "name": "Put the Cup in the Basket",
+      "url": "https://hub.axisrobotics.ai/explorer-1/task?id=502",
+      "status": "verified"
+    },
+    {
+      "task_id": 503,
+      "name": "Put the Cup on the Top of the Tissue Box",
+      "url": "https://hub.axisrobotics.ai/explorer-1/task?id=503",
+      "status": "verified"
+    },
+    {
+      "task_id": 504,
+      "name": "Put the Brush on the Top of the Tissue Box",
+      "url": "https://hub.axisrobotics.ai/explorer-1/task?id=504",
+      "status": "verified"
+    },
+    {
+      "task_id": 505,
+      "name": "Put the Brush beside the Basket",
+      "url": "https://hub.axisrobotics.ai/explorer-1/task?id=505",
+      "status": "verified"
+    },
+    {
+      "task_id": 506,
+      "name": "Put the Cup beside the Tissue Box",
+      "url": "https://hub.axisrobotics.ai/explorer-1/task?id=506",
+      "status": "verified"
+    },
+    {
+      "task_id": 514,
+      "name": "Put the Tennis Ball on the Plate",
+      "url": "https://hub.axisrobotics.ai/explorer-1/task?id=514",
+      "status": "verified"
+    },
+    {
+      "task_id": 757,
+      "name": "Rotate the Phone 2",
+      "url": "https://hub.axisrobotics.ai/explorer-1/task?id=757",
+      "status": "verified"
+    }
+  ]
+}
