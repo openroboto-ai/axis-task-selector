@@ -92,7 +92,7 @@ For the same seed, full history, and pool/annotation version, the output is iden
 Run from the repository root:
 
 ```bash
-git clone https://github.com/OpenRoboto/axis-task-selector.git
+git clone https://github.com/openroboto-ai/axis-task-selector.git
 cd axis-task-selector
 
 # Select from the supplied pool.
